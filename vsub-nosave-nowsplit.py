@@ -2,23 +2,16 @@
 from __future__ import unicode_literals
 
 import argparse
-import audioop
 import json
-import math
 import multiprocessing
 import os
 import sys
 import tempfile
-import wave
-from pathlib import Path
 
 import pysrt
 import requests
 import six
 from ffmpy import FFmpeg
-from progressbar import ProgressBar, Percentage, ETA
-
-from constants import natural_keys
 
 API_KEY = "AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
 # "AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
@@ -191,12 +184,14 @@ def main():
     audio_filename, audio_rate = extract_audio(args.source_path)
     converter = flacConvert(source_path=audio_filename)
     stt = reg(args.stt_language, converter, rate=audio_rate)
-    print(stt)
+
     des_file = args.output
     if not des_file:
         base, ext = os.path.splitext(args.source_path)
         des_file = "{base}.{format}".format(base=base, format="txt")
     print(des_file)
+    if not stt:
+        stt = str()
     with open(des_file, 'wb') as f:
         f.write(stt.encode("utf-8"))
 
