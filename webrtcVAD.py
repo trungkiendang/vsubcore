@@ -1,9 +1,8 @@
+import webrtcvad
 import collections
 import contextlib
 import sys
 import wave
-
-import webrtcvad
 
 
 def read_wave(path):
@@ -155,6 +154,7 @@ def find_region(aggressiveness, file):
     for z in timestamp:
         xxx.append((i, z[0], z[1]))
         i += 1
+    print("Hoàn thành phân mảnh âm thanh!")
     return xxx
 
 

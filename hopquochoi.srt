@@ -1,1399 +1,3291 @@
 1
-00:04:23,935 --> 00:04:29,823
+00:04:24,040 --> 00:04:29,820
 Xin chào quý vị khán giả đã rõ bản tin nhanh về diễn biến tại kỳ họp thứ 9 Quốc hội khóa 14 của đài truyền hình kỹ thuật số VTC
 
 2
-00:04:30,335 --> 00:04:33,919
-Thưa quý vị và các bạn ngày hôm nay có gửi tiếp tục tổ chức thảo luận tại hội trường
+00:04:30,340 --> 00:04:31,320
+Thưa quý vị và các bạn
 
 3
-00:04:34,175 --> 00:04:38,015
-Về báo cáo kinh tế xã hội và phê chuẩn quyết toán ngân sách nhà nước năm 2018
+00:04:31,540 --> 00:04:34,060
+Ngày hôm nay có hội Tiếp tục tổ chức thảo luận tại hội trường
 
 4
-00:04:38,271 --> 00:04:44,415
-Trước đó trong ngày 13 tháng 6 các đại biểu đã thảo luận sôi nổi về nhiều chủ đề những giải pháp nào để hỗ trợ doanh nghiệp hồi phục
+00:04:34,180 --> 00:04:38,080
+Về báo cáo kinh tế xã hội và phê chuẩn quyết toán ngân sách nhà nước năm 2018
 
 5
-00:04:44,671 --> 00:04:45,695
-6 + 19
+00:04:38,380 --> 00:04:42,060
+Trước đó trong ngày 13 tháng 6 các đại biểu đã thảo luận sôi nổi về nhiều chủ đề
 
 6
-00:04:45,951 --> 00:04:51,327
-Giải pháp để giảm giá thịt lợn hay những quan hệ của Dư Luận về một số vụ án được đưa ra xét xử thời gian gần đây
+00:04:42,200 --> 00:04:45,860
+Những giải pháp nào để hỗ trợ doanh nghiệp hồi phục nhanh sau covid-19
 
 7
-00:04:51,839 --> 00:04:57,983
-Trong buổi thảo luận ngày hôm nay 15 tháng 6 hội trường sẽ tiếp tục nóng lên với những chất vấn của đại biểu cùng những giải trình của
+00:04:46,160 --> 00:04:47,600
+Giải pháp để giảm giá thịt lợn
 
 8
-00:04:58,239 --> 00:04:58,751
-Bộ trưởng Anh
+00:04:47,680 --> 00:04:51,460
+Hay những quan ngại của Dư Luận về một số vụ án được đưa ra xét xử thời gian gần đây
 
 9
-00:04:59,519 --> 00:05:05,151
-Trước tiên xin mời quý khán giả cùng đến với những diễn biến đầu tiên của phiên thảo luận sáng nay vừa được phóng viên vtc ghi nhận tại
+00:04:51,960 --> 00:04:53,700
+Trong buổi thảo luận ngày hôm nay 15 tháng 6
 
 10
-00:05:06,943 --> 00:05:08,479
-Cổ phần hóa doanh nghiệp còn chậm
+00:04:53,780 --> 00:04:57,600
+Hội trường sẽ tiếp tục nóng lên với những chất vấn của đại biểu cùng những giải trình
 
 11
-00:05:08,735 --> 00:05:10,527
-Sản phẩm đầu tư công chưa đạt yêu cầu
+00:04:57,720 --> 00:04:58,800
+Của các bộ trưởng ngành
 
 12
-00:05:10,783 --> 00:05:12,063
-Tình trạng lười đọc văn bản
+00:04:59,520 --> 00:05:05,320
+Trước tiên xin mời quý khán giả cùng đến với những diễn biến đầu tiên của phiên thảo luận sáng nay vừa được phóng viên vtc ghi nhận tại quốc hội
 
 13
-00:05:12,319 --> 00:05:14,367
-Vấn đề ô nhiễm môi trường vấn đề tham nhũng
+00:05:07,100 --> 00:05:08,640
+Cổ phần hóa doanh nghiệp còn chậm
 
 14
-00:05:14,623 --> 00:05:15,647
-Trục lợi chính sách
+00:05:08,760 --> 00:05:10,700
+Tránh Đầu tư công chưa đạt yêu cầu
 
 15
-00:05:15,903 --> 00:05:17,951
-Trật tự an toàn xã hội tội phạm
+00:05:10,880 --> 00:05:12,160
+Tình trạng lười đọc văn bản
 
 16
-00:05:18,207 --> 00:05:20,255
-Tên một số lĩnh vực địa bàn Vĩnh Phúc
+00:05:12,340 --> 00:05:13,640
+Vấn đề ô nhiễm môi trường
 
 17
-00:05:21,023 --> 00:05:23,327
-Nếu tồn tại đây đã diễn ra trong nhiều năm
+00:05:13,760 --> 00:05:14,560
+Vấn đề tham nhũng
 
 18
-00:05:23,583 --> 00:05:24,863
-Nhưng mà ăn bằng kinh doanh
+00:05:14,860 --> 00:05:15,660
+Trục lợi chính sách
 
 19
-00:05:25,119 --> 00:05:26,911
-Những chú chó cứu hộ giải pháp tăng cơ
+00:05:16,060 --> 00:05:17,260
+Trật tự an toàn xã hội
 
 20
-00:05:27,167 --> 00:05:28,191
-Để giải quyết hiệu quả
+00:05:17,420 --> 00:05:18,040
+Tội phạm
 
 21
-00:05:28,959 --> 00:05:32,287
-Trong phiên làm việc của chính phủ để giải quyết vấn đề phòng chống Quốc
+00:05:18,280 --> 00:05:20,439
+Tên một số lĩnh vực địa bàn chuyện phức tạp
 
 22
-00:05:32,799 --> 00:05:34,847
-Thủ tướng Nguyễn Xuân Phúc Đà Nẵng tách hình thường là
+00:05:21,079 --> 00:05:22,079
+Những tồn tại đây
 
 23
-00:05:35,359 --> 00:05:36,895
-Chúng ta phải chọn hai loại virus
+00:05:22,239 --> 00:05:23,439
+Đại diễn ra trong nhiều năm
 
 24
-00:05:37,151 --> 00:05:38,431
-Corona
+00:05:23,779 --> 00:05:24,999
+Nếu một căn bệnh kinh niên
 
 25
-00:05:38,687 --> 00:05:39,711
-Hay là cái gì đây
+00:05:25,359 --> 00:05:27,039
+Những động tác thiếu giải pháp tăng cơ
 
 26
-00:05:39,967 --> 00:05:40,735
-Tôi cho rằng
+00:05:27,179 --> 00:05:28,199
+Để giải quyết hiệu quả
 
 27
-00:05:40,991 --> 00:05:43,551
-Những tồn tại đó đợt kéo dài từ năm này qua năm khác
+00:05:29,119 --> 00:05:29,899
+Trong phiên làm việc
 
 28
-00:05:43,807 --> 00:05:45,087
-Từ ngành này sang ngành khác
+00:05:29,919 --> 00:05:30,599
+Của Chính phủ
 
 29
-00:05:45,343 --> 00:05:46,879
-Từ địa phương này trang điểm khác
+00:05:30,639 --> 00:05:32,419
+Để giải quyết vấn đề phòng chống covid
 
 30
-00:05:47,391 --> 00:05:49,695
-Đã cho thấy chúng ta chưa có chứa thành công
+00:05:32,799 --> 00:05:33,639
+Thủ tướng Nguyễn Xuân Phúc
 
 31
-00:05:49,951 --> 00:05:56,095
-Trong việc chống virus thì đầy này hiện nay đường tuần tra biên giới bằng nhiều khó khăn đặc biệt là các khu
+00:05:33,679 --> 00:05:34,979
+Đà Nẵng cách thông thường là
 
 32
-00:05:56,351 --> 00:05:58,655
-1 đường vào cột mốc và đường tuần tra dọc
+00:05:35,459 --> 00:05:36,999
+Chúng ta phải chọn hai loại virus
 
 33
-00:05:58,911 --> 00:06:00,959
-Chị có thể đi bộ và rất hiểm trở
+00:05:37,359 --> 00:05:38,519
+Corona
 
 34
-00:06:01,215 --> 00:06:07,359
-Thế còn quốc lộ 279 là tuyến đường vành đai biên giới thứ hai có chiều dài 876 km
+00:05:38,719 --> 00:05:39,779
+Hay là cái gì đây
 
 35
-00:06:07,615 --> 00:06:11,711
-Đi qua 10 tỉnh miền núi đây cũng là tuyến đường có ý nghĩa rất quan trọng trong việc
+00:05:40,179 --> 00:05:40,919
+Tôi cho rằng
 
 36
-00:06:11,967 --> 00:06:14,527
-Phối hợp vừa phát triển kinh tế gắn với quốc phòng
+00:05:41,039 --> 00:05:43,679
+Những tồn tại đó đặt kéo dài từ năm này qua năm khác
 
 37
-00:06:14,783 --> 00:06:20,159
-Công trình này đã được triển khai phê duyệt rất lâu nhưng chưa hoàn thành nhất là đoạn đường Lào Cai Hà Giang
+00:05:43,979 --> 00:05:45,179
+Từ ngành này sang ngành khác
 
 38
-00:06:20,415 --> 00:06:26,559
-Vì vậy tôi Kính mong chính phủ nâng cấp và mở mới các đường tuần tra biên giới và quan tâm chỉ đạo giải ngân
+00:05:45,439 --> 00:05:47,039
+Từ địa phương này trang điểm khác
 
 39
-00:06:26,815 --> 00:06:32,959
-4 Kế hoạch Đầu tư công trung hạn giai đoạn 2016-2020 cho 24 dự án
+00:05:47,439 --> 00:05:49,079
+Đã cho thấy chúng ta chưa có
 
 40
-00:06:33,215 --> 00:06:39,359
-Đang thực hiện dở dang trong đó có quốc lộ 279 Chính phủ và tất cả các địa phương
+00:05:49,139 --> 00:05:49,899
+Chúc thành công
 
 41
-00:06:39,615 --> 00:06:40,127
-Xem xét
+00:05:50,159 --> 00:05:50,699
+Trong việc
 
 42
-00:06:40,639 --> 00:06:42,687
-Bình ngoãn Dừng tất cả các công trình
+00:05:50,899 --> 00:05:54,679
+Chống virus khi đầy này hiện nay đường tuần tra biên giới còn nhiều khó khăn
 
 43
-00:06:43,199 --> 00:06:43,967
-Không cần thiết
+00:05:54,779 --> 00:05:56,299
+Đặc biệt là các khu vực
 
 44
-00:06:44,735 --> 00:06:46,015
-Tốn kém tiền của nhân
+00:05:56,299 --> 00:05:58,879
+Cột đường vào cột mốc và đường tuần tra dọc Biên
 
 45
-00:06:47,039 --> 00:06:50,111
-Bây giờ đi xây dựng những cái thứ mà nó không ảnh hưởng không có
+00:05:58,979 --> 00:06:01,079
+Chị có thể đi bộ và rất hiểm trở
 
 46
-00:06:50,367 --> 00:06:51,903
-Giá trị đối với nền kinh tế
+00:06:01,319 --> 00:06:05,059
+Thế còn quốc lộ 279 là tuyến đường vành đai biên giới thứ 2
 
 47
-00:06:52,415 --> 00:06:54,463
-Bây giờ chúng ta phải đi xem xét cái gì được
+00:06:05,099 --> 00:06:09,019
+Có chiều dài 876 km và đi qua 10 tỉnh miền núi
 
 48
-00:06:54,719 --> 00:06:55,999
-Phục hồi trên nền kinh tế
+00:06:09,139 --> 00:06:11,799
+Đây cũng là tuyến đường có ý nghĩa rất quan trọng trong việc
 
 49
-00:06:56,255 --> 00:06:58,047
-Sao lại không biết được chúng ta phải làm cái gì
+00:06:11,979 --> 00:06:14,599
+Phối hợp vừa phát triển kinh tế gắn với quốc phòng
 
 50
-00:06:58,303 --> 00:07:01,631
-Chứ Bây giờ chúng ta có đi xây những công trình loại công trình kia mà nó không có giá trị
+00:06:14,779 --> 00:06:17,819
+Công trình này đã được triển khai phê duyệt rất lâu nhưng chưa hoàn thành
 
 51
-00:07:01,887 --> 00:07:03,935
-Chỉ tốn kém tiền của tốn kém Nguyên
+00:06:17,919 --> 00:06:20,139
+Nhất là đoạn đường Lào Cai Hà Giang
 
 52
-00:07:04,447 --> 00:07:07,519
-Số này Đề nghị Đảng ủy ban tài chính ngân sách có đồng chí cũng phải có kỹ nữ
+00:06:20,399 --> 00:06:22,019
+Vì vậy tôi Kính mong chính phủ
 
 53
-00:07:07,775 --> 00:07:08,799
-Thẩm tra kết nối
+00:06:22,039 --> 00:06:25,939
+Nâng cấp và mở mới tắc đường tuần tra biên giới và quan tâm chỉ đạo
 
 54
-00:07:11,103 --> 00:07:17,247
-Chúng ta vợ của nhau theo dõi tổng hợp nhanh các phát biểu thảo luận tại quốc hội sáng hôm nay và để có thêm những thông tin Chúng tôi xin
+00:06:26,019 --> 00:06:28,359
+Giải ngân số vốn kế hoạch Đầu tư công trung hạn
 
 55
-00:07:17,503 --> 00:07:23,647
-Đổi với phóng viên mặc Long và phong cách Kim thưởng đã có mặt tại quốc hội anh chị có nhận được tí nào
+00:06:28,519 --> 00:06:30,359
+Giai đoạn 2016
 
 56
-00:07:23,903 --> 00:07:25,951
-Từ trường quay của đài truyền hình kỹ thuật số VTC
+00:06:30,459 --> 00:06:31,759
+2020
 
 57
-00:07:27,999 --> 00:07:34,143
-Và chi tiết để tôi xin được giải quyết rồi anh Bạch Long thích Cảm ơn vào Tôi xin kết nối với mạng Long
+00:06:31,799 --> 00:06:36,159
+Cho 24 dự án đang thực hiện dở dang trong đó có quốc lộ 279
 
 58
-00:07:34,399 --> 00:07:40,543
-Ngoài những vấn đề vừa được cập nhật trong sáng hôm nay thì còn những nội dung gì đáng chú ý tại phiên thảo luận
+00:06:36,279 --> 00:06:40,179
+Tôi đề nghị là chính phủ và tất cả các địa phương các bộ ngành phải xem xét
 
 59
-00:07:40,799 --> 00:07:41,311
-Thế mà lo
+00:06:40,679 --> 00:06:42,839
+Bình ngoãn Dừng tất cả các công trình
 
 60
-00:07:43,871 --> 00:07:50,015
-Vâng tôi kỳ vọng và Xin chào quý vị khán giả như chúng ta đã biết thì ngày 13
+00:06:43,279 --> 00:06:43,939
+Không cần thiết
 
 61
-00:07:50,271 --> 00:07:55,135
-Quốc hội đã bắt đầu thực hiện phiên thảo luận quan trọng trong kỳ họp thường niên của Quốc hội
+00:06:44,739 --> 00:06:46,159
+Tốn kém tiền của nhân dân
 
 62
-00:07:55,391 --> 00:08:01,535
-Vào một nội dung nổi bật nhất tại phiên thảo luận này chính là những cái phát biểu của đại biểu Quốc hội Tập trung vào chủ đề
+00:06:47,119 --> 00:06:50,299
+Bây giờ đi xây dựng những cái thứ mà nó không ảnh hưởng không có
 
 63
-00:08:01,791 --> 00:08:03,071
-Gia cố lại để kinh tế
+00:06:50,519 --> 00:06:52,099
+Giá trị đối với nền kinh tế
 
 64
-00:08:03,583 --> 00:08:09,727
-Các đại biểu đã dành phần lớn thời gian để phân tích những khó khăn đặc biệt là của người dân doanh nghiệp trong bối cảnh hội
+00:06:52,399 --> 00:06:54,619
+Bây giờ chúng ta phải đi xem xét cái gì lập
 
 65
-00:08:10,495 --> 00:08:14,079
-Đề xuất chính phủ các nhóm giải pháp để khôi phục sản xuất kinh doanh
+00:06:54,899 --> 00:06:56,139
+Phục hồi trên nền kinh tế đây
 
 66
-00:08:14,335 --> 00:08:16,639
-Đảm bảo đời sống cho nhân dân và người lao động
+00:06:56,359 --> 00:06:58,119
+Sau đại của vít được chúng ta phải làm cái gì
 
 67
-00:08:16,895 --> 00:08:23,039
-Đồng thời số sản phẩm có một cuộc trở về với doanh nghiệp trong nước 7 Đây mới là động lực quan
+00:06:58,419 --> 00:07:01,779
+Chứ Bây giờ chúng ta có đi xây những công trình loại công trình kia mà nó không có giá trị
 
 68
-00:08:23,295 --> 00:08:24,063
-Vấn đề kinh tế
+00:07:01,959 --> 00:07:03,139
+Thì tốn kém tiền của
 
 69
-00:08:24,319 --> 00:08:25,855
-Đặc biệt Sau đại dịch covid-19
+00:07:03,239 --> 00:07:04,019
+Tốn kém ngân sách
 
 70
-00:08:26,623 --> 00:08:30,719
-Ngoài ra nhiều vấn đề nóng như tình hình tội phạm gia tăng
+00:07:04,439 --> 00:07:07,719
+Số này đề nghị Ủy ban tài chính ngân sách có đồng chí cũng phải có cái ý kiến
 
 71
-00:08:30,975 --> 00:08:37,119
-Việc giá thịt lợn ở vẫn cao hay là sự xâm nhập mặn ở các tỉnh Việt Nam cũng là chủ đề
+00:07:07,939 --> 00:07:08,939
+Thẩm tra kết nối card
 
 72
-00:08:37,375 --> 00:08:38,399
-Các đại biểu ở đề cập
+00:07:10,699 --> 00:07:13,079
+Chúng ta vợ của nhau theo dõi tổng hợp nhanh
 
 73
-00:08:38,911 --> 00:08:44,799
-Nói chung là cử tri người dân ở cũng cảm nhận được hơi thở của cuộc sống Quà những phát biểu này
+00:07:13,119 --> 00:07:15,139
+Các phát biểu thảo luận tại quốc hội sáng hôm nay
 
 74
-00:08:45,055 --> 00:08:48,127
-Thay vì những phát biểu về vấn đề còn thiếu bức xúc thiết thực
+00:07:15,319 --> 00:07:20,259
+Để có thêm những thông tin Chúng tôi xin được kết nối với phóng viên Bạch Long và phong cách tin tưởng đã có mặt tại quốc hội
 
 75
-00:08:48,639 --> 00:08:54,783
-Sau một ngày làm việc thì quốc hội mới lớn được phần giải trình của Bộ trưởng Bộ Nông nghiệp và Phát triển Nông
+00:07:20,759 --> 00:07:22,279
+Xin chào mình là một triệu chứng thường ạ
 
 76
-00:08:55,039 --> 00:08:55,807
-Nguyễn Xuân Cường
+00:07:22,319 --> 00:07:25,699
+Anh chị có nhận được tín hiệu tốt từ trường quay của đài truyền hình kỹ thuật số VTC
 
 77
-00:08:56,063 --> 00:08:58,623
-Lý giải về tình hình giá thịt lợn ở vận quá cao
+00:07:28,119 --> 00:07:30,739
+Vậy thì tôi xin được trả tiền rồi anh Bạch Long
 
 78
-00:08:59,135 --> 00:09:05,279
-Sóc Sơn thảo luận ngày hôm nay thì cử tri sẽ chờ đợi nhiều giải thích khác từ phía các bộ trưởng trưởng thành
+00:07:31,939 --> 00:07:34,439
+Xin cảm ơn và tôi xin kết nối vang Bạch Long
 
 79
-00:09:05,791 --> 00:09:09,119
-Và chúng ta sẽ chờ đợi nội dung này trong ngày hôm nay
+00:07:35,339 --> 00:07:37,379
+Ngoài những vấn đề vừa được cập nhật
 
 80
-00:09:10,911 --> 00:09:17,055
-Cảm nhận thông tin đầu tiên của họ Mạc Long Thư Kỳ Kim thường là trong phiên thảo luận trước thì Bộ trưởng Bộ Nông nghiệp Phát triển Nông thôn
+00:07:37,639 --> 00:07:39,719
+Trong sáng hôm nay thì còn những nội dung gì đáng chú ý
 
 81
-00:09:17,311 --> 00:09:23,455
-Xuân Cường cũng đá trả lời về việc bình ổn giá thịt lợn ở trong nước hay là những giải pháp hỗ trợ doanh nghiệp sản xuất
+00:07:39,859 --> 00:07:40,679
+Tải Chiến Thần Online
 
 82
-00:09:23,711 --> 00:09:29,343
-Cửa sau của bếp cho cũng được rất nhiều đại biểu quan tâm Tuy nhiên sau cái nội dung này thì dư luận đánh giá như thế nào
+00:07:40,879 --> 00:07:41,419
+Xe Hoàng Long
 
 83
-00:09:29,855 --> 00:09:31,903
-Trình bày diễn biến thực
+00:07:45,119 --> 00:07:45,579
+Và xin
 
 84
-00:09:34,463 --> 00:09:40,607
-Kỳ vọng và quý vị trong phiên làm việc buổi chiều ngày 13 tháng 6 Bộ trưởng nông nghiệp
+00:07:45,619 --> 00:07:46,119
+Xin chào
 
 85
-00:09:40,863 --> 00:09:47,007
-Phát triển nông thôn Nguyễn Xuân Cường đã đưa ra ba nhóm giải pháp về vấn đề giá thịt lợn tăng cao
+00:07:46,359 --> 00:07:47,399
+Quý vị khán giả
 
 86
-00:09:47,263 --> 00:09:53,407
-Ý là để suất Cần truyền thông để gửi cân Lựa Chọn thực phẩm đa dạng không có lý thì người ta ăn cứ tập trung ăn thịt lợn
+00:07:47,799 --> 00:07:51,839
+Chúng ta đã biết thì ngày 13 tháng 6 vừa qua quốc hội đã bắt
 
 87
-00:09:53,663 --> 00:09:59,807
-Phó chủ tịch quốc hội Phùng Quốc Hiển ngay lập tức cho rằng không thể nói giá thịt lợn là đắt thì chuyển sang ăn
+00:07:52,159 --> 00:07:52,779
+Diễn viên thảo luận
 
 88
-00:10:00,063 --> 00:10:06,207
-Thịt gà trứng thịt khác và đề nghị Bộ trưởng xem lại giải pháp sau khi nghe Bộ Trưởng Nguyễn Xuân Cường trả lời
+00:07:52,779 --> 00:07:53,219
+Quan trọng
 
 89
-00:10:06,463 --> 00:10:12,607
-Hoàng công hàm Trần Phú Thọ chỉ cho rằng không nên để người dân chỉ được ăn thịt lợn giá rẻ
+00:07:53,499 --> 00:07:54,079
+Trong kỳ họp
 
 90
-00:10:12,863 --> 00:10:19,007
-Trước tình hình đó đại biểu Nguyễn Trường Giang lần Cà Mau nhấn mạnh các mệnh lệnh hành chính để hạ giá thịt
+00:07:54,619 --> 00:07:55,039
+Quốc hội
 
 91
-00:10:19,263 --> 00:10:25,407
-Trong giai đoạn vừa qua là không hiệu quả theo ông người nuôi lúc khó khăn không được lợi nhiều còn người
+00:07:55,519 --> 00:07:58,179
+Vào một nội dung nổi bật nhất tại phiên thảo luận này
 
 92
-00:10:25,663 --> 00:10:31,807
-Dùng phải chịu giá cao trong khi đó thì thương và các doanh nghiệp điều chỉnh là
+00:07:58,219 --> 00:07:59,919
+Chỉnh lại những cái phát biểu của Đảng
 
 93
-00:10:32,063 --> 00:10:38,207
-Giá thịt lợn không giảm được trả lời thêm về nội dung mà anh đã hỏi về Dư luận đánh giá câu trả
+00:08:00,679 --> 00:08:01,419
+Tập trung vào
 
 94
-00:10:38,463 --> 00:10:40,767
-Của Tư lệnh ngành nông nghiệp như thế nào
+00:08:01,439 --> 00:08:02,999
+Chủ đề Gia cố lại kinh tế
 
 95
-00:10:41,023 --> 00:10:47,167
-Sau khi Bộ trưởng ở trường trả lời trước Quốc hội vào ngày 13 tháng 6 thì những câu nói như là giá trị
+00:08:03,619 --> 00:08:05,419
+Các đại biểu đã dành phần lớn thời gian
 
 96
-00:10:47,423 --> 00:10:53,567
-Heo đất thì ta chuyển sang ăn thịt gà hay có lý gì cứ tập trung ăn thịt lợn hay là câu thịt gì thì cũng tốt
+00:08:05,499 --> 00:08:06,819
+Để phân tích những khó khăn
 
 97
-00:10:53,823 --> 00:10:59,967
-Cũng là con người dân ta sản xuất tất cả đã gây bão mạng xã hội bên cạnh một số ít những ý kiến đồng tình thì cũng
+00:08:06,979 --> 00:08:07,439
+Đặc biệt
 
 98
-00:11:00,223 --> 00:11:06,367
-Nhiều cử tri tỏ ra không hài lòng với đề xuất của bộ trưởng tháng 9 thì có những câu hỏi đặt ngược lại cho Bộ trưởng
+00:08:07,439 --> 00:08:08,219
+Thiết lập của người dân
 
 99
-00:11:06,623 --> 00:11:12,767
-Vậy là nếu tất cả đều chuyển sang ăn gà vịt bò và dê hoặc các thực phẩm khác thì nóng
+00:08:08,279 --> 00:08:08,759
+Thất nghiệp
 
 100
-00:11:13,023 --> 00:11:19,167
-Chẳng mất hàng ngày nữa thì phải chăng Bộ trưởng lại khuyên người dân chuyển sang ăn chay để tốt hơn cho sức
+00:08:08,859 --> 00:08:09,479
+Trong bối cảnh
 
 101
-00:11:19,423 --> 00:11:25,567
-Những chia sẻ một chút về ý kiến vui của khán giả bình luận trên fanpage VTC Nam của đài truyền hình
+00:08:09,479 --> 00:08:10,059
+Bệnh phụ đại dịch
 
 102
-00:11:25,823 --> 00:11:31,967
-VTC để thấy điều mà cử tri mong mỏi không phải là một giải pháp tạm thời mà đề nghị tư lệnh ngành
+00:08:10,559 --> 00:08:13,459
+Đề xuất chính phủ các nhóm giải pháp để khôi phục sản xuất
 
 103
-00:11:32,223 --> 00:11:38,367
-Vẫn chưa ra được những giải pháp căn cơ đường dài hơn giữa trong vấn đề Bình ngồi giá thịt lợn nói riêng và thực phẩm nói chung
+00:08:13,599 --> 00:08:14,139
+Kinh doanh
 
 104
-00:11:38,623 --> 00:11:41,183
-Tom Và Jerry Được Trở Lại trường quay với anh hi vọng
+00:08:14,399 --> 00:08:15,759
+Đảm bảo đời sống cho nhân dân
 
 105
-00:11:41,439 --> 00:11:47,583
-Vâng ạ và trung tâm được biết là trong ngày hôm nay phiên thảo luận sẽ chờ đợi phần giải trình thêm ở của các Tư lệnh ngành
+00:08:15,879 --> 00:08:16,499
+Người lao động
 
 106
-00:11:47,839 --> 00:11:53,983
-Phát biểu trước thì chúng tôi thấy có rất nhiều đại biểu đã bày tỏ cái lo ngại về tình hình tội phạm dưới và đang xã hội hay là việc triển khai
+00:08:17,059 --> 00:08:17,639
+Đồng thời
 
 107
-00:11:54,239 --> 00:11:56,287
-Nhiệm vụ của ngành giao thông ở cũng được đề cập
+00:08:17,739 --> 00:08:20,559
+Sản phẩm có một cuộc trở về với doanh nghiệp trong nước
 
 108
-00:11:56,543 --> 00:11:58,079
-Ăn mật ong có thêm thông tin việc
+00:08:20,819 --> 00:08:22,299
+Bệnh Đây mới là động lực
 
 109
-00:12:01,663 --> 00:12:07,807
-Tại diễn đàn Quốc hội sáng 13 vừa qua thì các đại biểu có nhắc đến một số vụ án của qua đang gây bức xúc
+00:08:22,779 --> 00:08:23,299
+Quan trọng
 
 110
-00:12:08,063 --> 00:12:12,415
-Trong nhân dân và dư luận về tính đúng đắn về phán quyết của tòa án
+00:08:23,339 --> 00:08:24,119
+Vấn đề kinh tế
 
 111
-00:12:12,671 --> 00:12:14,719
-Cũng như nó vi phạm trong hoạt động tố tụng
+00:08:24,379 --> 00:08:24,799
+Đặc biệt
 
 112
-00:12:14,975 --> 00:12:15,999
-Nhất quán của diễn
+00:08:24,799 --> 00:08:25,879
+Sau đại dịch covid-19
 
 113
-00:12:16,511 --> 00:12:21,887
-Vũ điệu cháu nhảy lầu tự tử ở tòa án nhân dân tỉnh Bình Phước vụ lùi xe trên đường cao tốc vân vân
+00:08:27,479 --> 00:08:28,319
+Nhiều vấn đề nóng
 
 114
-00:12:22,143 --> 00:12:25,215
-Phát triển thịnh l vụ buôn gỗ lậu tại Quảng Trị
+00:08:28,619 --> 00:08:29,499
+Như tình hình
 
 115
-00:12:25,471 --> 00:12:27,007
-Có nhiều dấu hiệu oan sai
+00:08:29,639 --> 00:08:30,259
+Tội phạm
 
 116
-00:12:27,263 --> 00:12:29,567
-Vi phạm nghiêm trọng pháp luật trong tố tụng
+00:08:30,299 --> 00:08:30,819
+Gia tăng
 
 117
-00:12:30,335 --> 00:12:33,919
-Tôi nghĩ rằng đây cũng là trách nhiệm của các cơ quan
+00:08:31,159 --> 00:08:33,059
+Việc cả giá thịt lợn ở vẫn cao
 
 118
-00:12:34,175 --> 00:12:35,199
-Thủ tục
+00:08:33,159 --> 00:08:33,739
+Hay là
 
 119
-00:12:36,735 --> 00:12:42,879
-Tòa công an tòa án kiểm soát chờ chúng ta cũng hi vọng là trong phiên thảo luận sáng nay sẽ nhận
+00:08:34,079 --> 00:08:35,079
+Ở các
 
 120
-00:12:43,135 --> 00:12:44,927
-Diễn biến giải đáp về những nội dung nào
+00:08:35,199 --> 00:08:35,859
+Việt Nam
 
 121
-00:12:45,183 --> 00:12:47,231
-Của các vị bộ trưởng trưởng Ngành có liên
+00:08:35,919 --> 00:08:36,899
+Cũng là chủ đề
 
 122
-00:12:47,999 --> 00:12:49,279
-Ở trong đầu giờ sáng nay
+00:08:37,039 --> 00:08:38,359
+Được các đại biểu ở đề cập
 
 123
-00:12:49,535 --> 00:12:54,911
-Thì Bộ trưởng Công Thương Trần Tuấn Anh là bộ trưởng đầu tiên làm rõ ý kiến của các đại biểu của Quan
+00:08:38,919 --> 00:08:39,439
+Nói chung
 
 124
-00:12:55,423 --> 00:12:56,959
-Trọng tâm là ba nội dung chính
+00:08:39,659 --> 00:08:40,399
+Là cử tri
 
 125
-00:12:57,215 --> 00:13:01,567
-Là khôi phục sản xuất thúc đẩy xuất khẩu Sau đại dịch covid-19
+00:08:40,679 --> 00:08:41,199
+Người dân
 
 126
-00:13:02,079 --> 00:13:03,615
-Thứ hai là xuất khẩu gạo
+00:08:41,379 --> 00:08:42,999
+Cũng cảm nhận được hơi thở
 
 127
-00:13:03,871 --> 00:13:05,919
-Ông xã biết vậy là đã xuất khẩu ba phẩy
+00:08:43,199 --> 00:08:44,659
+Cuộc sống của những phát biểu này
 
 128
-00:13:06,175 --> 00:13:07,199
-8 triệu tấn gạo
+00:08:45,199 --> 00:08:46,339
+Thay vì những phát biểu
 
 129
-00:13:07,455 --> 00:13:09,503
-Dự đoán năm 2020 thì khả
+00:08:46,399 --> 00:08:47,659
+Về vấn đề còn thiếu bức xúc
 
 130
-00:13:09,759 --> 00:13:12,063
-Việt Nam là nước xuất khẩu gạo hàng đầu thế giới
+00:08:49,339 --> 00:08:50,299
+Sau một ngày làm việc
 
 131
-00:13:12,575 --> 00:13:18,463
-Bộ đang tiếp tục hoàn thiện pháp lý theo chỉ đạo của chính phủ để ngăn chặn khí lợi ích nhóm trong xuất khẩu gạo
+00:08:50,579 --> 00:08:53,479
+Thì quốc hội mới lớn được phần giải trình của Bộ trưởng Bộ
 
 132
-00:13:18,975 --> 00:13:19,487
-Quả thứ ba
+00:08:54,139 --> 00:08:54,979
+Phát triển nông thôn
 
 133
-00:13:19,743 --> 00:13:23,583
-Là giải trình về việc bổ sung quy hoạch cho các dự án điện cũng như
+00:08:55,079 --> 00:08:55,759
+Nguyễn Xuân Cường
 
 134
-00:13:23,839 --> 00:13:26,399
-Đảm bảo nhu cầu cung cấp điện trong thời gian tới
+00:08:56,159 --> 00:08:58,699
+Lý giải về tình hình giá thịt lợn ở vận quá cao
 
 135
-00:13:26,655 --> 00:13:27,679
-Xin trả lại
+00:08:59,279 --> 00:09:00,759
+Sóc Sơn thảo luận ngày hôm nay
 
 136
-00:13:29,215 --> 00:13:35,359
-Cảm ơn những thông tin của phóng viên Bạch Long và chúng tôi sẽ đoàn kết nối trở lại phóng viên Hạ Long sau ít phút nữa trở lại
+00:09:01,079 --> 00:09:01,579
+Cử tri
 
 137
-00:13:35,615 --> 00:13:39,711
-Giá trị hiện thực giá trị nhân đạo thể tóm tắt về lịch trình của phiên thảo luận là ngày hôm nay dự kiến sẽ ra như thế nào
+00:09:01,859 --> 00:09:03,179
+Sẽ chờ đợi nhiều giải
 
 138
-00:13:39,967 --> 00:13:46,111
-Sapa kỳ vọng và quý vị Hôm nay tôi có
+00:09:03,659 --> 00:09:05,459
+Từ phía các bộ trưởng trưởng thành khác
 
 139
-00:13:46,367 --> 00:13:52,511
-Sẽ dành trọn một ngày để tiếp tục thảo luận ở hội trường về kinh tế xã hội ngân sách nhà nước Đồng thời các hành vi
+00:09:05,999 --> 00:09:07,979
+Và chúng ta sẽ chờ đợi nội dung này
 
 140
-00:13:52,767 --> 00:13:58,911
-Chính phủ phát biểu giải trình làm rõ một số vấn đề đại biểu quốc hội nêu những vị đã biết thở Một phiên thảo luận
+00:09:08,179 --> 00:09:08,859
+Trong ngày
 
 141
-00:13:59,167 --> 00:14:05,311
-Kinh tế xã hội thì thông tin này thường đến trực tiếp với toàn thể cử tri trong cả nước đây vừa là diễn đàn để các đại biểu
+00:09:11,059 --> 00:09:13,139
+Cảm ơn những thông tin đầu tiên của Hoàng Bạch Long
 
 142
-00:14:05,567 --> 00:14:11,711
-Nói lên những tiếng nói của cử tri gửi cảm ứng tới kỳ họp nhưng đồng thời cũng mong muốn các cơ quan có trách nhiệm
+00:09:13,399 --> 00:09:16,939
+Báo thức chỉ kim trưởng ở trong phiên thảo luận trước thì Bộ trưởng Bộ Nông nghiệp Phát triển Nông thôn
 
 143
-00:14:11,967 --> 00:14:18,111
-Giải thích thậm chí phải có biện pháp giải quyết những bức xúc đó và do một điểm khác biệt của kỳ họp lần
+00:09:17,399 --> 00:09:21,059
+Xuân Cường cũng đá trả lời về việc bình ổn giá thịt lợn ở trong nước hay là
 
 144
-00:14:18,367 --> 00:14:24,511
-Quốc hội sẽ không tổ chức chất vấn và trả lời chất vấn tại phiên toàn thể các vật đó thì đại biểu Quốc
+00:09:21,719 --> 00:09:24,419
+Giải pháp hỗ trợ doanh nghiệp sản xuất ra hồi phục cả sau có bếp
 
 145
-00:14:24,767 --> 00:14:30,911
-Bằng văn bản đến người bị chất vấn là chính vì vậy tôi nghĩ rằng phiên thảo luận ngày hôm nay sẽ có
+00:09:24,979 --> 00:09:26,039
+Rất nhiều đại biểu quan tâm
 
 146
-00:14:31,167 --> 00:14:37,311
-Nhiều phần tranh luận lồng ghép vào để các đại biểu và các bộ trưởng trưởng ngành có thể làm rõ và có giải pháp
+00:09:26,199 --> 00:09:29,459
+Mở tự nhiên Hà sau cái nội dung này thì dư luận đánh giá như thế nào
 
 147
-00:14:37,567 --> 00:14:43,711
-Những hạn chế tồn tại đó chúng tôi sẽ cập nhật các thông tin này liên tục về cuối kỳ trong các bản tin của đài truyền hình VTC
+00:09:30,039 --> 00:09:30,719
+Sân bay Kiến Tường
 
 148
-00:14:43,967 --> 00:14:50,111
-Còn bây giờ xin được trở lại trường quay với biên tập viên kỳ vọng
+00:09:37,119 --> 00:09:37,699
+Trong phim
 
 149
-00:14:50,367 --> 00:14:56,511
-Mong chờ những thông tin cập nhật từ ngày trường ở quốc hội trong 16 năm nay về chương trình Chúng ta sẽ còn tiếp diễn trong vòng khoảng
+00:09:37,939 --> 00:09:39,279
+Buổi chiều ngày 13 tháng
 
 150
-00:14:56,767 --> 00:15:02,911
-Tiếng đồng hồ nữa là thứ quý vị trước đó trong ngày 13 tháng 6 những vấn đề về điều hành thị trường thịt lợn năng lực của
+00:09:39,279 --> 00:09:42,179
+Bộ trưởng nông nghiệp và phát triển nông thôn Nguyễn Xuân Cường
 
 151
-00:15:03,167 --> 00:15:09,055
-Cán bộ ngành Tư pháp và những vấn đề về hỗ trợ doanh nghiệp Phục hồi kinh tế sau có viết 19 đường đại biểu thảo luận sôi nổi
+00:09:42,419 --> 00:09:44,159
+Đã đưa ra ba nhóm giải pháp
 
 152
-00:15:09,311 --> 00:15:15,455
-Tuy nhiên những vấn đề khác như là tình hình an ninh trật tự xã hội trục lợi từ tiền hỗ trợ của Đức 19 điều hành kinh tế của một
+00:09:44,899 --> 00:09:45,239
+Thịt lợn
 
 153
-00:15:15,711 --> 00:15:21,343
-Lĩnh vực cụ thể cũng được dư luận rất quan tâm và chúng ta sẽ cùng điểm qua những nội dung này trong bản tiếng Anh
+00:09:46,599 --> 00:09:47,899
+Đáng chú ý là đề xuất
 
 154
-00:15:24,927 --> 00:15:31,071
-Năm 2019 theo đánh giá của ngân hàng Nông nghiệp và Phát triển Nông thôn huyện Quỳ Châu Công Ơi của
+00:09:47,899 --> 00:09:48,579
+Bất cần truyền thông
 
 155
-00:15:31,327 --> 00:15:37,471
-Đình bà Hồ Thị Hương có giá trị 900000000₫ đó là chưa kể ngôi nhà gỗ trị giá hàng trăm triệu
+00:09:48,839 --> 00:09:49,959
+Lựa Chọn thực phẩm
 
 156
-00:15:37,727 --> 00:15:43,871
-Năm 2020 cái những điều khiến không ít người bất ngờ khi biết gia đình này
+00:09:50,979 --> 00:09:52,079
+Không có lý gì người ta
 
 157
-00:15:44,127 --> 00:15:50,271
-Lại là hộ nghèo và điều kiện hỗ trợ 3750000₫ có ảnh hưởng đại dịch covid-19
+00:09:52,379 --> 00:09:52,799
+Cứ tập trung
 
 158
-00:15:50,527 --> 00:15:56,671
-Bà ngoại đi hỏi là có tất cả ra nhưng mà tôi đang bật bài này
+00:09:53,159 --> 00:09:53,499
+Thịt lợn
 
 159
-00:15:56,927 --> 00:16:00,255
-Singapore để hưởng quyền lợi cho con đi học thôi
+00:09:53,859 --> 00:09:55,359
+Phó chủ tịch quốc hội Phùng Quốc Hiển
 
 160
-00:16:01,791 --> 00:16:07,423
-Năm 2020 bàn Quỳnh 2 xã Châu Bình có 97 hộ nghèo và cận nghèo
+00:09:55,479 --> 00:09:56,079
+Ngay lập tức
 
 161
-00:16:07,679 --> 00:16:13,823
-24 tháng 6 các hộ gia đình này được nhận tiền hỗ trợ khó khăn do đại dịch covid-19
+00:09:56,099 --> 00:09:56,599
+Cho rằng
 
 162
-00:16:14,079 --> 00:16:20,223
-Tại cuộc họp thôn ngày mùng 6 tháng 6 qua rà soát nhanh bản Quỳnh hay có đến 66
+00:09:56,899 --> 00:09:57,979
+Không thể nói
 
 163
-00:16:20,479 --> 00:16:26,623
-97 hộ đã thoát Nghèo của Trường bạn này Thoát nghèo do mới
+00:09:58,059 --> 00:09:58,739
+Thịt lợn là đắt
 
 164
-00:16:26,879 --> 00:16:33,023
-Nhà cửa sắm đồ dùng khách sạn
+00:09:58,859 --> 00:09:59,559
+Chuyển sang
 
 165
-00:16:33,279 --> 00:16:39,423
-Họ là
+00:10:00,119 --> 00:10:00,639
+Thịt gà chứ
 
 166
-00:16:39,679 --> 00:16:45,823
-Cây thứ nhất là theo dõi tập quán từ vào năm lần trung sửa nhà cửa
+00:10:01,519 --> 00:10:02,439
+Định vị bộ trưởng
 
 167
-00:16:46,079 --> 00:16:52,223
-Đưa đón tết là cái nguồn thu thì nói
+00:10:02,499 --> 00:10:03,479
+Xem lại giải pháp
 
 168
-00:16:52,479 --> 00:16:58,623
-Chắc được khai thác rừng cọ hồ sơ bồi thường
+00:10:04,459 --> 00:10:05,139
+Khi nghe bộ trưởng
 
 169
-00:16:58,879 --> 00:17:05,023
-Cũng tại bản Quỳnh Hai có ba trường hợp thuộc diện hộ nghèo và cận nghèo nhưng đã mất vào trước thời điểm
+00:10:05,419 --> 00:10:06,339
+Nguyễn Xuân Cường trả lời
 
 170
-00:17:05,279 --> 00:17:11,423
-Xảy ra dịch bệnh covid-19 thế nhưng không hiểu vì lý do gì mà ba trường hợp này vẫn được cấp phát
+00:10:07,239 --> 00:10:08,039
+Hoàng công hàm
 
 171
-00:17:11,679 --> 00:17:16,031
-Cơ sở dữ liệu lúc đó Thực tế là gì
+00:10:08,599 --> 00:10:08,979
+Phú Thọ
 
 172
-00:17:16,543 --> 00:17:18,591
-Cũng là không không
+00:10:08,999 --> 00:10:09,499
+Sâu răng
 
 173
-00:17:19,103 --> 00:17:20,127
-Tắc kè
+00:10:09,819 --> 00:10:11,439
+Không nên để người dân chỉ được ăn
 
 174
-00:17:20,895 --> 00:17:23,199
-Tỷ ở dưới gây cười nhiều cái
+00:10:11,539 --> 00:10:11,819
+Thịt lợn
 
 175
-00:17:23,455 --> 00:17:29,599
-Ghét rồi có văn bản lên không kiểm soát cơn tức là theo cái bộ công cụ
+00:10:11,859 --> 00:10:12,479
+Giá rẻ
 
 176
-00:17:29,855 --> 00:17:31,647
-Đánh giá chấm điểm của các xã thị trấn
+00:10:13,339 --> 00:10:14,839
+Trước tình hình đó đại biểu ngữ
 
 177
-00:17:31,903 --> 00:17:34,975
-Nếu như có vấn đề sai thì chúng tôi tức là sẽ
+00:10:15,519 --> 00:10:16,619
+Cần Cà Mau
 
 178
-00:17:35,231 --> 00:17:36,255
-Tức là
+00:10:16,879 --> 00:10:17,819
+Các mệnh lệnh hành
 
 179
-00:17:36,511 --> 00:17:42,655
-Ở cấp nào làm sai thì cấp đó tức là phải chịu trách nhiệm về vấn đề sai của mình
+00:10:19,119 --> 00:10:19,759
+Trong giai đoạn
 
 180
-00:17:42,911 --> 00:17:49,055
-Được biết năm 2020 huyện Quỳ Châu có hơn 3.600 hộ nghèo
+00:10:19,779 --> 00:10:20,379
+Vừa qua
 
 181
-00:17:49,311 --> 00:17:55,455
-Hộ cận nghèo tỉnh chỉ tính riêng xã Châu Bình đã chi hơn 3,3 tỷ đồng
+00:10:20,979 --> 00:10:21,519
+Không hiệu quả
 
 182
-00:17:55,711 --> 00:18:01,855
-1085 hộ nghèo và cận nghèo khó khăn cho đại dịch covid 19 trước những bất
+00:10:22,399 --> 00:10:23,879
+Người nuôi lúc khó khăn
 
 183
-00:18:02,111 --> 00:18:06,463
-Trong việc bình bầu hộ nghèo cận nghèo và chi trả tiền hỗ trợ covid-19
+00:10:23,899 --> 00:10:24,299
+Không được
 
 184
-00:18:06,719 --> 00:18:12,863
-Ủy ban nhân dân huyện Quỳ Châu đã phát văn bản yêu cầu tất cả các xã thị trấn nhanh chóng rà soát
+00:10:24,299 --> 00:10:25,699
+Lực lượng nhiều còn người tiêu dùng
 
 185
-00:18:13,119 --> 00:18:13,631
-Chấn chỉnh
+00:10:26,299 --> 00:10:26,879
+Giá cao
 
 186
-00:18:13,887 --> 00:18:20,031
-Và xử lý nghiêm tập thể cá nhân vi phạm
+00:10:27,259 --> 00:10:28,479
+Trong khi đó thì
 
 187
-00:18:20,287 --> 00:18:24,639
-Bạn có tổ chức mang động cũng có xu hướng gia tăng gây mất an ninh trật tự tại nhiều địa phương
+00:10:29,519 --> 00:10:30,819
+Thương của các doanh nghiệp
 
 188
-00:18:24,895 --> 00:18:30,527
-Sự xuống cấp của đạo đức xã hội hành vi cư xử giữa con người với con người là một phần nguyên nhân dẫn đến tình trạng này
+00:10:30,859 --> 00:10:31,359
+Điều chỉnh
 
 189
-00:18:30,783 --> 00:18:36,927
-Dư luận vô cùng bất an trước tính chất ngày càng manh động của các băng nhóm tội phạm rất cần cơ quan chức năng mạnh tay trấn áp Duy
+00:10:31,479 --> 00:10:32,219
+Làm cho giá
 
 190
-00:18:37,183 --> 00:18:37,695
-An ninh trật tự
+00:10:32,299 --> 00:10:32,579
+Thịt lợn
 
 191
-00:18:39,999 --> 00:18:46,143
-Hình ảnh này được trích xuất từ camera an ninh ghi lại vụ việc xảy ra lúc 20:30 ngày mùng 5 tháng
+00:10:32,819 --> 00:10:33,139
+Thông cảm
 
 192
-00:18:46,399 --> 00:18:48,703
-Tại quán ốc hương địa bàn phường An Lạc
+00:10:33,979 --> 00:10:35,339
+Xin được trả lời thêm về nội
 
 193
-00:18:48,959 --> 00:18:49,727
-Quận Bình Tân
+00:10:35,399 --> 00:10:36,539
+Nội dung mà anh đã hỏi
 
 194
-00:18:50,239 --> 00:18:56,383
-Thời điểm đó khoảng 200 thanh niên đi trên xe máy đa số các áo màu cam cầm dao tự chế
+00:10:36,779 --> 00:10:37,539
+Dư luận đánh
 
 195
-00:18:56,639 --> 00:18:59,455
-Đến quán chửi bới đập phá bàn ghế tủ kính
+00:10:37,539 --> 00:10:38,819
+Đánh giá câu trả lời của
 
 196
-00:18:59,711 --> 00:19:02,015
-Và dùng vỏ chai bia đánh Khách đang ngồi nhậu
+00:10:38,859 --> 00:10:39,319
+Tư lệnh ngành
 
 197
-00:19:02,271 --> 00:19:04,575
-Sau đó bỏ đi qua nhiều tuyến phố
+00:10:39,479 --> 00:10:39,739
+Nông nghiệp
 
 198
-00:19:05,087 --> 00:19:11,231
-Ngày sau vụ việc công an thành phố Hồ Chí Minh đã củng cố hồ sơ ban đầu ra quyết định khởi tố vụ án về ban
+00:10:39,839 --> 00:10:40,359
+Như thế nào
 
 199
-00:19:11,999 --> 00:19:13,023
-Gây rối trật tự công
+00:10:41,839 --> 00:10:44,939
+Sau khi Bộ trưởng ở trường trả lời trước Quốc hội vào ngày 13 tháng
 
 200
-00:19:13,279 --> 00:19:14,303
-Cố ý gây thương
+00:10:45,799 --> 00:10:46,739
+Những câu nói như là
 
 201
-00:19:14,559 --> 00:19:16,351
-Cố ý làm hư hỏng tài sản
+00:10:46,819 --> 00:10:47,639
+Giá thịt heo đất
 
 202
-00:19:16,607 --> 00:19:19,423
-Đồng thời ra quyết định tạm giữ hình sự 15 nghi phạm
+00:10:47,859 --> 00:10:48,599
+Thì ta chuyển sang
 
 203
-00:19:19,679 --> 00:19:24,031
-Để đấu tranh khai thác và tiếp tục mở rộng điều tra truy bắt những nghi phạm còn lại
+00:10:48,719 --> 00:10:49,159
+Thịt gà
 
 204
-00:19:25,567 --> 00:19:27,103
-Công an thành phố cũng kêu gọi
+00:10:49,299 --> 00:10:50,019
+Hay có lý
 
 205
-00:19:28,383 --> 00:19:29,407
-Người thân
+00:10:50,379 --> 00:10:51,039
+Tập trung ăn
 
 206
-00:19:29,919 --> 00:19:30,943
-Bạn bè
+00:10:51,099 --> 00:10:51,459
+Thịt lợn
 
 207
-00:19:31,455 --> 00:19:32,479
-Gia đình
+00:10:51,639 --> 00:10:52,539
+Hay là câu
 
 208
-00:19:32,991 --> 00:19:34,271
-Của các đối tượng liên quan
+00:10:53,099 --> 00:10:54,919
+Cục tốt cũng là do người dân ta chờ
 
 209
-00:19:34,527 --> 00:19:36,319
-Và kêu gọi cho trước đối tượng
+00:10:55,579 --> 00:10:56,799
+Đã gây bão mạng xã hội
 
 210
-00:19:36,831 --> 00:19:41,439
-Có liên quan thì ra đầu thú để được hưởng khoan hồng
+00:10:57,139 --> 00:10:58,299
+Biết cạnh một số ít
 
 211
-00:19:42,719 --> 00:19:43,743
-Điều đáng báo động
+00:10:58,619 --> 00:10:58,879
+Ý kiến
 
 212
-00:19:43,999 --> 00:19:45,791
-Là những sự việc này ngày càng nhiều
+00:10:58,959 --> 00:10:59,519
+Đồng tình
 
 213
-00:19:46,047 --> 00:19:48,095
-Các băng nhóm được hình thành với quy mô lớn
+00:11:00,079 --> 00:11:00,419
+Rất nhiều
 
 214
-00:19:48,351 --> 00:19:51,167
-Giải quyết mâu thuẫn bằng bạo lực rất manh động và liều lĩnh
+00:11:00,519 --> 00:11:01,159
+Củ Chi tỏ ra
 
 215
-00:19:52,191 --> 00:19:58,335
-Những người thấy lắm mà không dám ra có ai đâu mà sợ
+00:11:01,179 --> 00:11:02,539
+Không hài lòng với đề xuất ngày
 
 216
-00:19:58,591 --> 00:20:04,735
-Băng nhóm bảo kê nhà hàng quán này kia chứ nó giải
+00:11:02,799 --> 00:11:03,319
+Bộ trưởng
 
 217
-00:20:04,991 --> 00:20:10,623
-Làm cái nhà cửa đi
+00:11:03,619 --> 00:11:04,359
+Thậm chí thì có
 
 218
-00:20:10,879 --> 00:20:13,695
-Mà hai bên mà không có rút được
+00:11:04,459 --> 00:11:05,039
+Câu hỏi đã
 
 219
-00:20:13,951 --> 00:20:20,095
-Bất ngờ nhất dân tộc này vẫn bắt buộc nó phải đâm chém
+00:11:05,059 --> 00:11:06,139
+Lật ngược lại cho bột
 
 220
-00:20:21,887 --> 00:20:28,031
-Theo thống kê trong quý 1 năm nay của Công an thành phố Hồ Chí Minh phạm pháp hình sự được đánh giá là tăng 10%
+00:11:06,219 --> 00:11:06,779
+Động cơ xăng
 
 221
-00:20:28,287 --> 00:20:34,431
-Toàn lực lượng đã điều tra khám phá 13057 vụ vi phạm hình sự bắt 30 nghìn hai
+00:11:06,959 --> 00:11:09,619
+Vậy là nếu tất cả đều chuyển sang ăn gà vịt
 
 222
-00:20:34,687 --> 00:20:35,455
-76 đối tượng
+00:11:09,639 --> 00:11:10,579
+Thịt bò và dê
 
 223
-00:20:35,711 --> 00:20:38,527
-Triệt phá 598 băng ổ nhóm tội phạm
+00:11:10,659 --> 00:11:11,659
+Cách thực phẩm
 
 224
-00:20:39,551 --> 00:20:44,671
-Đối với những vụ án đặc biệt nghiêm trọng như thế này mà chúng ta mà làm chậm thì nó ảnh hưởng đến
+00:11:12,159 --> 00:11:13,179
+Nó lại tăng
 
 225
-00:20:44,927 --> 00:20:45,695
-Tâm lý
+00:11:14,319 --> 00:11:14,999
+Ngày nữa
 
 226
-00:20:46,463 --> 00:20:47,999
-Của à
+00:11:15,279 --> 00:11:17,319
+Phải chăng Bộ trưởng lại khuyên người dân chuyển
 
 227
-00:20:48,255 --> 00:20:49,279
-Bà Còng
+00:11:18,339 --> 00:11:19,439
+Tốt hơn cho sức khỏe
 
 228
-00:20:56,959 --> 00:21:03,103
-World Cup
+00:11:20,159 --> 00:11:23,939
+Chia sẻ một chút về ý kiến vui của khán giả bình luận trên fanpage
 
 229
-00:21:06,431 --> 00:21:12,575
-Theo công an thành phố Hồ Chí Minh hiện nay các loại tội phạm bạo lực gây rối trật tự công cộng đã liên tiếp xảy ra
+00:11:24,099 --> 00:11:27,199
+VTC5 của đài truyền hình kỹ thuật số VTC để thấy
 
 230
-00:21:12,831 --> 00:21:14,367
-Biến nhất tại các khu vực vùng ven
+00:11:27,239 --> 00:11:30,659
+Điều mà cử tri mong mỏi không phải là một giải pháp tạm thời
 
 231
-00:21:14,623 --> 00:21:19,744
-Trong thời gian qua công an thành phố cũng đã và đang tiếp tục Triển khai nhiều chuyên đề chuyên sâu
+00:11:30,799 --> 00:11:32,959
+Mà đề nghị tư lệnh ngành cần đưa ra được những
 
 232
-00:21:20,000 --> 00:21:22,816
-Tấn công các loại tội phạm trên địa bàn thành phố Hồ Chí Minh
+00:11:32,959 --> 00:11:33,379
+Những giải pháp
 
 233
-00:21:24,096 --> 00:21:30,240
-Trong tháng 5 vừa qua dư luận cả nước đặc biệt quan tâm tới Nghệ An công ty tenma đóng tại Bắc Ninh có trụ sở
+00:11:33,379 --> 00:11:34,979
+Căng cơ đường dài hơn nữa
 
 234
-00:21:30,496 --> 00:21:32,800
-Chính tại Nhật Bản đưa hối lộ cơ quan thuế và hải quan
+00:11:35,119 --> 00:11:37,299
+Cho vấn đề bình ổn giá thịt lợn nói riêng
 
 235
-00:21:33,312 --> 00:21:36,128
-Vụ việc đã được Thủ tướng Chính phủ chỉ thị điều tra làm rõ
+00:11:37,379 --> 00:11:38,339
+Thực phẩm nói chung
 
 236
-00:21:36,384 --> 00:21:41,248
-Câu chuyện mở ra nghi vấn về việc nhiều doanh nghiệp Việt Nam phải có phí bôi trơn trong hoạt động sản xuất kinh doanh
+00:11:38,619 --> 00:11:40,959
+Tom Và Jerry Được Trở Lại trường quay với anh khi vào mạng
 
 237
-00:21:41,504 --> 00:21:45,344
-Có hay không thể ở chính sách trong hoạt động xuất nhập khẩu để các doanh nghiệp
+00:11:41,659 --> 00:11:45,639
+Vâng ạ và Trung ương được biết là trong ngày hôm nay phiên thảo luận sẽ chờ đợi phần giải trình thêm
 
 238
-00:21:45,600 --> 00:21:46,368
-Cán bộ chụp
+00:11:45,759 --> 00:11:47,119
+Ở của các Tư lệnh ngành
 
 239
-00:21:48,928 --> 00:21:54,304
-Khảo sát pci của phòng thương mại và công nghiệp Việt Nam trong 4 năm trở lại đây về chi phí không chính thức của doanh
+00:11:47,379 --> 00:11:51,599
+Trong các phát biểu trước thì chúng tôi thấy có rất nhiều đại biểu đã bày tỏ cái lo ngại về tình
 
 240
-00:21:55,072 --> 00:21:56,096
-Du sướng giảm
+00:11:51,739 --> 00:11:52,959
+Tội phạm gây ra nạn xã hội
 
 241
-00:21:56,352 --> 00:22:02,496
-Kết quả cho thấy là vào năm 2019 có đến hơn 50% doanh nghiệp được hỏi vẫn phải trả phí
+00:11:53,099 --> 00:11:54,799
+Hay là việc triển khai các nhiệm vụ của ngành
 
 242
-00:22:03,520 --> 00:22:08,640
-Với hơn 12 nghìn doanh nghiệp được hỏi số doanh nghiệp phải trả không chính thức đã là hơn 6 nghìn
+00:11:54,819 --> 00:11:55,319
+Ảnh giao thông
 
 243
-00:22:09,152 --> 00:22:15,296
-Trước nghi vấn công ty Nhật Kim Anh hai lần hối lộ cơ quan chức năng Bắc Ninh tổng cộng số tiền 500
+00:11:55,419 --> 00:11:56,279
+Vợ cũng được
 
 244
-00:22:15,552 --> 00:22:21,696
-Càng khẳng định việc trả phí không chính thức của doanh nghiệp là có thật ngoài ra theo phòng thương mại và công nghiệp
+00:11:56,679 --> 00:11:58,039
+Ăn mật ong có thêm thông tin Việt
 
 245
-00:22:21,952 --> 00:22:28,096
-Một lần nữa sự việc lại cho thấy năng lực thực thi công vụ của một bộ phận cán bộ trong bộ máy hành chính
+00:12:01,799 --> 00:12:06,239
+Tại diễn đàn Quốc hội sáng 13 vừa qua thì các đại biểu có nhắc đến một số
 
 246
-00:22:28,352 --> 00:22:34,496
-Hiện tượng mà báo chí vừa nêu vừa rồi thì cũng và cái
+00:12:06,719 --> 00:12:07,299
+Qua đăng ký
 
 247
-00:22:34,752 --> 00:22:40,896
-Phản ánh cái chạm đó Hiện nay chúng tôi rất mong rằng những cái cải cách thể chế phải được
+00:12:08,779 --> 00:12:09,359
+Trong nhân dân
 
 248
-00:22:41,152 --> 00:22:47,296
-Sơn nữ và đặc biệt là phải hướng tới cái sự minh bạch đơn giản đề cao
+00:12:09,519 --> 00:12:10,039
+Báo Pháp Luật
 
 249
-00:22:47,552 --> 00:22:53,696
-Hiệp giải trình tăng cường giám sát xã hội về cách tốt nhất để có thể thúc đẩy được
+00:12:10,699 --> 00:12:10,999
+Đúng đắn
 
 250
-00:22:53,952 --> 00:22:56,256
-Kỷ niệm phòng chống tham nhũng
+00:12:11,739 --> 00:12:12,459
+Bắt quyết của tòa án
 
 251
-00:22:57,792 --> 00:22:58,816
-Trước tiên ma
+00:12:13,559 --> 00:12:14,279
+Vi phạm trong hoạt động
 
 252
-00:22:59,328 --> 00:23:02,656
-Đã xuất hiện nhiều vụ việc cả trách nhiệm Fe2 lẫn doanh nghiệp trong nước
+00:12:14,339 --> 00:12:14,719
+Thủ tục
 
 253
-00:23:02,912 --> 00:23:07,008
-Tố cáo về việc ăn chia và có yêu cầu đòi hỏi các chi phí không chính thức
+00:12:15,139 --> 00:12:15,799
+Vụ án của
 
 254
-00:23:07,264 --> 00:23:08,544
-Hay là chi phí gầm bàn
+00:12:18,799 --> 00:12:19,459
+Tỉnh Bình Phước
 
 255
-00:23:08,800 --> 00:23:09,312
-Tuy nhiên
+00:12:19,759 --> 00:12:21,299
+Vụ lùi xe trên đường cao tốc
 
 256
-00:23:09,568 --> 00:23:12,896
-Vì nhiều lý do vấn đề này chưa được xử lý đến nơi đến chốn
+00:12:22,219 --> 00:12:22,779
+Bật điện
 
 257
-00:23:13,920 --> 00:23:20,064
-Liên quan đến việc hỗ trợ phục hồi kinh tế một số đại biểu đề nghị Chính phủ cần chỉ đạo quyết liệt sớm giải ngân
+00:12:22,939 --> 00:12:24,479
+Lò vụ ở buôn gỗ lậu
 
 258
-00:23:20,320 --> 00:23:24,416
-Hỗ trợ tháo gỡ khó khăn cho ngành hàng không du lịch cũng như các ngành liên quan đến xuất khẩu
+00:12:24,559 --> 00:12:25,279
+Tại Quảng Trị
 
 259
-00:23:24,672 --> 00:23:30,560
-Thời gian qua rất nhiều ngành có ưu thế xuất khẩu ít chịu tác động tiêu cực do dịch bệnh nhưng lại không thể xuất khẩu
+00:12:25,659 --> 00:12:27,099
+Có nhiều dấu hiệu quan sai
 
 260
-00:23:30,816 --> 00:23:34,144
-Câu chuyện về xuất khẩu gạo trong tháng Tư vừa qua là một ví dụ điển hình
+00:12:27,299 --> 00:12:27,719
+Vi phạm
 
 261
-00:23:34,656 --> 00:23:38,496
-Diễn biến điều hành xuất khẩu gạo đã gây rất nhiều khó khăn bức xúc cho doanh nghiệp và nông dân
+00:12:28,119 --> 00:12:28,979
+Nghiêm trọng pháp luật
 
 262
-00:23:38,752 --> 00:23:44,384
-Rất nhiều doanh nghiệp đã nghi vấn có dấu hiệu trục lợi và tiêu cực trong điều hành
+00:12:29,019 --> 00:12:29,599
+Chọc tức
 
 263
-00:23:44,640 --> 00:23:45,664
-Mặt hàng xuất khẩu
+00:12:31,279 --> 00:12:33,819
+Đây cũng là trách nhiệm của các cơ quan
 
 264
-00:23:48,736 --> 00:23:54,880
-Đảm bảo an ninh lương thực thời gian qua Chính phủ đã đồng ý xuất khẩu gạo trong tháng tư năm nay giới hạn ở mức 400
+00:12:36,839 --> 00:12:37,799
+Tòa công an
 
 265
-00:23:55,392 --> 00:24:00,512
-Số lượng này được cho là phù hợp với tình hình nguồn cung thực tế và được các doanh nghiệp xuất khẩu đồng tình
+00:12:37,859 --> 00:12:38,919
+Tòa án kiểm soát
 
 266
-00:24:01,024 --> 00:24:07,168
-Điều đáng nói là chỉ trong đêm 12 tháng 4 lượng gạo đăng ký Mở tờ khai hải quan xuất khẩu đã lên tới 400 nghìn
+00:12:39,019 --> 00:12:40,719
+Chờ chúng ta cũng hi vọng
 
 267
-00:24:07,424 --> 00:24:13,568
-Trong khi rất nhiều doanh nghiệp đã ký hợp đồng xuất khẩu trước đó gạo đã ra cản nhưng lại không kịp mở
+00:12:40,979 --> 00:12:42,479
+Lại trong phiên thảo luận sáng nay
 
 268
-00:24:13,824 --> 00:24:19,968
-Khai hải quan doanh nghiệp này đã phải bốn lần gửi đơn kêu cứu lên Thủ tướng
+00:12:42,479 --> 00:12:43,959
+Sẽ nhận được những cái giải đáp
 
 269
-00:24:20,224 --> 00:24:20,992
-Các doanh nghiệp
+00:12:43,979 --> 00:12:44,999
+Về các nội dung này
 
 270
-00:24:21,248 --> 00:24:22,528
-Xuất khẩu gạo
+00:12:45,199 --> 00:12:46,339
+Của các vị bộ trưởng
 
 271
-00:24:22,784 --> 00:24:28,928
-Nhạc Tuấn thiệt hại là khoảng từ 3 đến 50 tỷ đồng một ngày đêm ngày 12 tháng 04
+00:12:46,459 --> 00:12:47,379
+Chuyện này có liên quan
 
 272
-00:24:29,184 --> 00:24:31,232
-Hải quan có cho khai hải quan sai đi
+00:12:48,139 --> 00:12:49,299
+Ở trong đầu giờ sáng nay
 
 273
-00:24:31,488 --> 00:24:36,864
-Khi phản ánh cho là mạnh thôi cái lại cho nó đúng với tinh thần
+00:12:49,739 --> 00:12:51,739
+Thì Bộ trưởng Công Thương Trần Tuấn Anh
 
 274
-00:24:37,120 --> 00:24:43,264
-Gạo nào thì cho khai lại cho cơ quan có cái kẹo nào mà thay đổi
+00:12:51,759 --> 00:12:52,779
+Là bộ trưởng đầu tiên
 
 275
-00:24:44,800 --> 00:24:48,128
-Việc làm xuất đơn giản như thế thôi
+00:12:52,959 --> 00:12:54,999
+Làm rõ ý kiến của các đại biểu quan tâm
 
 276
-00:24:48,640 --> 00:24:52,736
-Có hay không dấu hiệu trục lợi tiêu cực để xử lý nghiêm theo quy định của pháp luật
+00:12:55,579 --> 00:12:56,059
+Trọng tâm
 
 277
-00:24:52,992 --> 00:24:59,136
-Đây là yêu cầu thanh tra chính phủ làm rõ từ Thủ tướng người đứng đầu chính phủ cũng yêu cầu làm rõ thông tin báo chí
+00:12:56,079 --> 00:12:57,079
+Là ba nội dung chính
 
 278
-00:24:59,392 --> 00:25:05,536
-Phản ánh về việc công khai minh bạch liên quan đến việc làm thủ tục hải quan và đăng ký Mở tờ khai hải quan
+00:12:57,259 --> 00:12:57,959
+Là khôi phục
 
 279
-00:25:05,792 --> 00:25:06,304
-Xuất khẩu gạo
+00:12:58,159 --> 00:12:59,379
+Sản xuất thúc đẩy
 
 280
-00:25:06,560 --> 00:25:09,376
-Báo cáo lên Thủ tướng Chính phủ trong tháng 6 năm nay
+00:12:59,499 --> 00:13:00,839
+Xuất khẩu Sau đại dịch
 
 281
-00:25:22,944 --> 00:25:29,088
-Theo các chuyên gia cách điều hành đối với ngành gạo trong nước hiện nay đang mang tính
+00:13:00,839 --> 00:13:01,639
+19
 
 282
-00:25:29,344 --> 00:25:35,488
-Đặc biệt là hoạt động xuất khẩu gạo Nếu không giám sát chặt chẽ dễ dễ nảy sinh tiêu cực tạo cơ chế
+00:13:02,159 --> 00:13:03,559
+Thứ hai là xuất khẩu gạo
 
 283
-00:25:35,744 --> 00:25:41,632
-Xin chào Bắc Ninh giờ đó cần phải phân quyền cho các bên dưới sự giám sát của Chính phủ
+00:13:03,959 --> 00:13:05,939
+Ông xã biết đã xuất khẩu 3 phẩy
 
 284
-00:25:42,144 --> 00:25:47,008
-Người dân đang tiếp tục kêu oan trong mỏi mòn chờ đợi và công lý ở một số vụ án
+00:13:06,239 --> 00:13:07,139
+8 triệu tấn gạo
 
 285
-00:25:47,264 --> 00:25:50,080
-Vấn đề chậm tiến độ của các dự án là căn bệnh trầm Kha
+00:13:07,619 --> 00:13:09,139
+Dự đoán năm 2020
 
 286
-00:25:50,336 --> 00:25:53,408
-Không có lý do chỉ tập trung ăn thịt lợn mà than
+00:13:09,139 --> 00:13:09,719
+Khả năng
 
 287
-00:25:53,664 --> 00:25:54,688
-Phải dỗ thực phẩm
+00:13:09,879 --> 00:13:12,259
+Việt Nam là nước xuất khẩu gạo hàng đầu thế giới
 
 288
-00:25:54,944 --> 00:25:56,480
-Không gây áp lực lên một ngành hàng
+00:13:12,799 --> 00:13:15,999
+Bộ đang tiếp tục hoàn thiện pháp lý theo chỉ đạo của Chính phủ
 
 289
-00:25:56,736 --> 00:26:02,880
-Ngã ba trong số những phát biểu ấn tượng của các đại biểu trong phiên thảo luận về tình hình kinh tế xã hội hai ngày vừa qua nhưng vấn đề của
+00:13:16,139 --> 00:13:18,479
+Để ngăn chặn Kỷ Lợi ích nhóm trong xuất khẩu gạo
 
 290
-00:26:03,136 --> 00:26:06,464
-Biểu ra đi so với thực tế và chờ đợi những lời giải đáp
+00:13:18,979 --> 00:13:19,619
+Quả thứ ba
 
 291
-00:26:07,488 --> 00:26:13,632
-Việc vi phạm nghiêm trọng trong bán vật chứng vụ án đã khởi tố hơn một năm nay nhưng chưa được đưa ra xét xử trong khi đó người
+00:13:19,799 --> 00:13:23,719
+Là giải trình về việc bổ sung quy hoạch cho các dự án điện cũng như
 
 292
-00:26:13,888 --> 00:26:16,448
-Chấp hành án phạt tù trong sự đau khổ
+00:13:23,839 --> 00:13:25,399
+Đảm bảo nhu cầu cung cấp điện
 
 293
-00:26:16,704 --> 00:26:18,752
-Cuộc cải bị bắn bị tịt thuốc mất
+00:13:25,479 --> 00:13:26,359
+Trong thời gian tới
 
 294
-00:26:19,008 --> 00:26:22,336
-Người thì quá Đức thắt cổ từ từ người còn lại vào vòng tù tội
+00:13:26,819 --> 00:13:27,819
+Xin trả lại
 
 295
-00:26:22,592 --> 00:26:28,736
-Đang tiếp tục kêu oan trong hỗ trợ mong mỏi mỏi mòn và công lý nỗi oan khiên việc minh giải Đây là phần nội
+00:13:29,279 --> 00:13:34,659
+Cảm ơn những thông tin của phóng viên Bạch Long và chúng tôi sẽ còn kết nối trở lại phóng viên Hạ Long sau ít phút nữa
 
 296
-00:26:28,992 --> 00:26:31,552
-Các món lòng tin của người dân
+00:13:34,899 --> 00:13:39,379
+Trở lại thế chị kiếm được thì chị có thể tóm tắt lịch trình của phiên thảo luận là ngày hôm nay dự kiến sẽ ra
 
 297
-00:26:31,808 --> 00:26:32,576
-Chủ lãi suất
+00:13:39,379 --> 00:13:39,799
+Như thế nào
 
 298
-00:26:32,832 --> 00:26:33,600
-Điều ảnh đã đã
+00:13:43,559 --> 00:13:45,179
+Kỳ vọng và Quý Tỵ
 
 299
-00:26:33,856 --> 00:26:37,696
-Tìm lãi suất cho vay thực tế để các doanh nghiệp và các tổ chức
+00:13:45,419 --> 00:13:46,859
+Hôm nay quốc hội sẽ dành
 
 300
-00:26:37,952 --> 00:26:39,744
-Do các tổ chức tín dụng
+00:13:46,879 --> 00:13:48,099
+Chọn một ngày để tiếp tục
 
 301
-00:26:40,000 --> 00:26:41,280
-Ngân hàng thương mại quyết
+00:13:48,219 --> 00:13:48,659
+Thảo luận
 
 302
-00:26:41,792 --> 00:26:45,120
-Do vậy cần phải có thêm cô ấy cho vay với lãi suất thấp hơn
+00:13:48,679 --> 00:13:49,639
+Ở hội trường về cơ
 
 303
-00:26:45,376 --> 00:26:51,520
-Tân cổ tiếp cận vốn doanh nghiệp không nên để thời gian qua dư luận cho rằng người dân chỉ được ăn thịt lợn
+00:13:49,639 --> 00:13:50,279
+Kinh tế xã hội
 
 304
-00:26:51,776 --> 00:26:52,544
-Trên tivi
+00:13:50,479 --> 00:13:51,299
+Lịch Tết nhà nước
 
 305
-00:26:52,800 --> 00:26:57,664
-Nếu tao không sản xuất thì phải kích thích tăng đàn tăng nhập khẩu không cần thiết kinh tế Nhà nước phải tham gia
+00:13:51,579 --> 00:13:52,779
+Đồng thời các thành viên
 
 306
-00:26:57,920 --> 00:27:04,064
-Nếu có câu lưu thông tỉnh có biện pháp hợp lý hợp pháp cần thiết để cân nhắc cả đến việc nhà nước thu mua trực tiếp
+00:13:52,859 --> 00:13:53,759
+Chính phủ phát biểu tại
 
 307
-00:27:04,320 --> 00:27:10,464
-Tiếp theo thị trường chúng ta tập trung cũng phải khuyến cáo phải lựa chọn cái sản phẩm đa dạng hóa thực phẩm không
+00:13:53,759 --> 00:13:55,399
+Giải trình làm rõ một số vấn đề
 
 308
-00:27:12,256 --> 00:27:18,400
-Thịt gà rất tốt cũng bà con nông dân chúng ta phải có xe chứ không
+00:13:55,499 --> 00:13:56,639
+Đại biểu quốc hội nêu
 
 309
-00:27:18,656 --> 00:27:24,800
-Điều của nông dân cả cái lỗ thực phẩm bổ dưỡng tốt cho cơ thể
+00:13:56,979 --> 00:13:58,239
+Như cái gì đã biết thì ở một
 
 310
-00:27:25,056 --> 00:27:31,200
-Em được một vấn đề chậm tiến độ các dự chương trình dự án đây có lẽ là căn bệnh trầm Kha là đội vốn
+00:13:58,239 --> 00:13:59,819
+Phiên thảo luận về kinh tế xã hội
 
 311
-00:27:31,456 --> 00:27:37,600
-Nguồn lực của đất nước rất nhiều dự án được đầu tư rất nhiều tiền nhưng không được kết quả sử dụng phục vụ phát triển kinh tế hoặc
+00:13:59,919 --> 00:14:00,779
+Thông tin này thường
 
 312
-00:27:37,856 --> 00:27:40,160
-Dự án chương trình được cấp 4 nhỏ giọt không đảm bảo
+00:14:00,779 --> 00:14:01,119
+Đường đến
 
 313
-00:27:40,416 --> 00:27:46,560
-Mua nồi cơm điện không ít dự án tham gia dự án khác giải ngân thì chậm trong khi có những dự án quan trọng khác thì là
+00:14:01,519 --> 00:14:02,199
+Trực tiếp với tao
 
 314
-00:27:46,816 --> 00:27:50,144
-Đơn cử như dự án đưa điện về nông thôn miền núi hải đảo
+00:14:02,499 --> 00:14:03,319
+Trong cả nước
 
 315
-00:27:52,704 --> 00:27:58,080
-Miền Trung trong 2 ngày thảo luận các đại biểu đạt đánh giá cao nỗ lực của chính phủ các bộ ban ngành cho điều hành kinh tế xã hội
+00:14:03,599 --> 00:14:05,779
+Đây vừa là diễn đàn để các đại biểu Quốc hội
 
 316
-00:27:58,336 --> 00:28:04,480
-Tuy nhiên các đại biểu cũng Đề nghị các bộ ngành cần đưa ra những giải pháp thiết thực nữ nhằm phục hồi kinh tế xã hội sau Tác động
+00:14:05,939 --> 00:14:06,539
+Nói lên
 
 317
-00:28:04,736 --> 00:28:06,272
-Nặng nề của đại dịch covid-19
+00:14:06,599 --> 00:14:07,439
+Triệu chứng nó nói của
 
 318
-00:28:06,784 --> 00:28:12,928
-Về các nội dung kinh tế xã hội khác đại biểu đề nghị tiếp tục thực hiện nghiêm các quy định về phòng chống tác hại của rượu bia
+00:14:07,539 --> 00:14:08,219
+Cử tri gửi gắm
 
 319
-00:28:13,184 --> 00:28:13,696
-An toàn giao thông
+00:14:08,339 --> 00:14:09,059
+Tuổi Kỷ Hợi
 
 320
-00:28:13,952 --> 00:28:18,304
-Đấu tranh quyết liệt với các băng nhóm tội phạm đem lại trật tự an ninh xã hội an toàn cho người dân
+00:14:09,239 --> 00:14:11,599
+Đồng thời cũng mong muốn các cơ quan có trách nhiệm
 
 321
-00:28:18,560 --> 00:28:24,704
-Những chất vấn của đại biểu đang chờ đợi những giải đáp phát thực tế không vòng vo của các Tư lệnh ngành và qua đó đó
+00:14:12,379 --> 00:14:13,099
+Giải thích thật
 
 322
-00:28:24,960 --> 00:28:26,496
-Được kỳ vọng của nhân dân
+00:14:13,099 --> 00:14:13,879
+Thế phải có biện
 
 323
-00:28:26,752 --> 00:28:32,384
-Bây giờ thì tôi nhận được tín hiệu từ phóng viên Kim Phượng đang có mặt tại nhà trước cơ hội chưa được kết nối trở lại với Phong Kiến Tường
+00:14:13,879 --> 00:14:14,139
+Biện pháp
 
 324
-00:28:39,296 --> 00:28:45,440
-Tôi vừa đi gặp bà tại trường quay thứ nhất là về tình hình xuất khẩu gạo này về tình hình đảm bảo trật tự an ninh xã hội
+00:14:14,139 --> 00:14:14,859
+Cách giải quyết những
 
 325
-00:28:45,696 --> 00:28:51,840
-Và câu chuyện mà doanh nghiệp phải trả phí bôi trơn rất là nhiều vấn đề khác bên cạnh đó nổi cộm nhất đó là
+00:14:14,859 --> 00:14:15,659
+Những bức xúc đỏ
 
 326
-00:28:52,096 --> 00:28:58,240
-Sử dụng hết số tiền hỗ trợ đại dịch covid-19 thì đã có những đại biểu nào đăng ký
+00:14:15,939 --> 00:14:18,379
+Cho 1 điểm khác biệt của kỳ họp lần này
 
 327
-00:28:58,496 --> 00:29:01,824
-Phát biểu và các nội dung này đã được đề cập như thế nào trong phiên làm việc sáng nay không ạ
+00:14:18,579 --> 00:14:19,179
+Quốc hội
 
 328
-00:29:06,432 --> 00:29:07,200
-Tập
+00:14:19,479 --> 00:14:19,939
+Không
 
 329
-00:29:07,456 --> 00:29:13,600
-Trang chú ý thì những cái thông tin liên quan đến trả lời của bộ trưởng bộ Công
+00:14:20,279 --> 00:14:21,839
+Chất vấn và trả lời chất vấn
 
 330
-00:29:13,856 --> 00:29:20,000
-Trần Tuấn Anh liên quan đến vấn đề xuất khẩu gạo theo bộ trưởng thì những cái phản ánh liên quan đến xuất khẩu gạo trong thời gian
+00:14:21,879 --> 00:14:22,899
+Tại phiên toàn thể
 
 331
-00:29:20,256 --> 00:29:26,400
-Thì đã được bộ công thương chỉ đạo làm rõ và trong những
+00:14:23,099 --> 00:14:24,679
+Cái màu đỏ thì đại biểu Quốc hội
 
 332
-00:29:26,656 --> 00:29:32,800
-Theo thì khi mà vụ hè thu của đồng bằng sông Cửu Long chúng ta sẽ thu hoạch thì cái lượng gạo xuất khẩu
+00:14:25,939 --> 00:14:26,419
+Bằng văn bản
 
 333
-00:29:33,056 --> 00:29:39,200
-Cháu Ổn định trở lại và cái vấn đề lo lắng về an ninh lương thực thì sẽ cũng không
+00:14:26,519 --> 00:14:27,019
+Đến người
 
 334
-00:29:39,456 --> 00:29:45,600
-Còn nhiều cái nó lo lắng về vấn đề an ninh lương thực nữa một vấn đề nữa mà đại biểu có đề cập tới
+00:14:28,279 --> 00:14:30,439
+Vì vậy tôi nghĩ rằng phiên thảo luận ngày hôm nay
 
 335
-00:29:45,856 --> 00:29:52,000
-Bộ trưởng Trần Tuấn Anh có đề cập tới đó là vấn đề là năng lượng đó là vấn đề năng lượng
+00:14:30,599 --> 00:14:31,799
+Có nhiều phần tranh luận
 
 336
-00:29:52,256 --> 00:29:58,400
-Sắp tới đây thì sẽ có chữ cái triển khai liên quan đến
+00:14:31,879 --> 00:14:32,759
+Lồng ghép vào
 
 337
-00:29:58,656 --> 00:30:04,800
-Năng lượng gió năng lượng mặt trời để giải quyết bài toán cứu điện ở trong năm 2021 đến năm 2000
+00:14:32,899 --> 00:14:34,379
+Các đại biểu và các bộ trưởng
 
 338
-00:30:05,056 --> 00:30:11,200
-Cùng với đó thì nhiều đại biểu đã làm hội trường bằng những phát biểu liên quan
+00:14:34,559 --> 00:14:35,799
+Trưởng thành có thể
 
 339
-00:30:11,456 --> 00:30:17,600
-Vấn đề những cái sai phạm trong Magic xử ở các dịch vụ án trong thời gian gần đây đặc biệt
+00:14:35,879 --> 00:14:37,379
+Làm rõ và có giải pháp khi
 
 340
-00:30:17,856 --> 00:30:24,000
-Đã tranh luận của đại biểu Nguyễn Thị Cương và đại biểu Lưu Bình Nhưỡng đoàn Bến Tre các điểm biểu thị cho rằng là không
+00:14:37,799 --> 00:14:38,219
+Những hạt
 
 341
-00:30:24,256 --> 00:30:30,400
-Tác phẩm này thì cần phải được làm rõ để khiến cho để cho Dư luận có những cái gì
+00:14:38,239 --> 00:14:39,139
+Chỉ tồn tại đó
 
 342
-00:30:30,656 --> 00:30:36,800
-Cũng chẳng hơn cũng như là tránh được nhưng theo anh say đến với người dân là một nội dung nữa
+00:14:39,459 --> 00:14:39,859
+Chúng tôi
 
 343
-00:30:37,056 --> 00:30:43,200
-Cũng được nhiều đại biểu đề cập đến đó chính là hỗ trợ cái gói hỗ trợ 62 nghìn tỷ cho họ người
+00:14:39,899 --> 00:14:41,419
+Cách cập nhật các thông tin này liên tục
 
 344
-00:30:43,456 --> 00:30:49,600
-Hiện tại thì có dấu hiệu của việc lợi các chính sách từ chính phủ vì vậy cũng yêu cầu là chính phủ
+00:14:41,419 --> 00:14:42,399
+Trong các
 
 345
-00:30:49,856 --> 00:30:54,720
-Cần phải kiểm soát chặt chẽ hơn nữa Vâng ạ Xin được trở lại trường quay với anh kỳ vọng
+00:14:42,399 --> 00:14:42,959
+Bản tin của đài
 
 346
-00:30:55,232 --> 00:31:01,376
-Cảm ơn những thông tin của phóng viên Lương thực và cung cấp và những thông tin nổi bật trong phiên làm việc cả sáng hôm nay tại Trung Quốc
+00:14:43,019 --> 00:14:43,919
+Truyền hình VTC
 
 347
-00:31:01,632 --> 00:31:07,776
-Sẽ được phóng viên vtc tổng hợp và chuyển tới quý vị và các bạn trong bản tin thời sự trưa hôm nay lên sóng lúc 11:30
+00:14:44,099 --> 00:14:46,499
+Còn bây giờ xin được trở lại trường quay với biên tập viên
 
 348
-00:31:08,032 --> 00:31:14,176
-Kênh VTC1 10 quý vị quan tâm theo dõi Còn bây giờ thì bản tin nhanh ở sáng nay của chúng tôi cũng xin được tạm dừng
+00:14:47,599 --> 00:14:50,939
+Cảm ơn phóng viên Kim được chúng tôi cũng tiếp tục mong chờ những
 
 349
-00:31:14,432 --> 00:31:17,760
-Và trước khi kết thúc mời quý vị cùng theo dõi một số ý kiến
+00:14:51,119 --> 00:14:51,459
+Tin cập nhật
 
 350
-00:31:18,784 --> 00:31:22,112
-Xin cảm ơn sự quan tâm theo dõi của quý vị kính chào tạm biệt và hẹn gặp
+00:14:51,459 --> 00:14:51,899
+Nhật Cường
+
+351
+00:14:51,979 --> 00:14:53,199
+Trường quốc hội cho buổi sáng hôm nay
+
+352
+00:14:53,919 --> 00:14:54,479
+Vũng Tàu Sài Gòn
+
+353
+00:14:54,779 --> 00:14:56,499
+Thời tiết diễn trong vòng khoảng
+
+354
+00:14:56,499 --> 00:14:57,379
+Khoảng nửa tiếng đồng hồ nữa
+
+355
+00:14:57,819 --> 00:14:58,539
+Ở thượng vị
+
+356
+00:14:58,659 --> 00:15:01,459
+Trước đó trong ngày 13 tháng 6 những vấn đề về điều hành
+
+357
+00:15:01,799 --> 00:15:02,079
+Thịt lợn
+
+358
+00:15:02,259 --> 00:15:02,679
+Năng lực
+
+359
+00:15:02,679 --> 00:15:03,199
+Kết quả
+
+360
+00:15:03,379 --> 00:15:06,059
+Cán bộ ngành Tư pháp và những vấn đề về hỗ trợ doanh nghiệp
+
+361
+00:15:06,059 --> 00:15:07,419
+Phục hồi kinh tế sau có viết 19
+
+362
+00:15:07,739 --> 00:15:09,019
+Đường đại biểu thảo luận sôi nổi
+
+363
+00:15:09,379 --> 00:15:09,919
+Tuy nhiên
+
+364
+00:15:09,919 --> 00:15:12,259
+Những vấn đề khác như là tình hình an ninh trật tự xã hội
+
+365
+00:15:12,279 --> 00:15:14,259
+Trục lợi từ tiền hỗ trợ covid-19
+
+366
+00:15:14,479 --> 00:15:16,319
+Điều hành kinh tế ở một số lĩnh vực cụ thể
+
+367
+00:15:16,459 --> 00:15:16,899
+Cũng được
+
+368
+00:15:16,919 --> 00:15:17,739
+Được dư luận rất quan tâm
+
+369
+00:15:18,079 --> 00:15:20,259
+Và chúng ta sẽ cùng điểm qua những nội dung này
+
+370
+00:15:20,259 --> 00:15:20,859
+Trong bản
+
+371
+00:15:25,059 --> 00:15:37,299
+Năm 2019 theo đánh giá của ngân hàng Nông nghiệp và Phát triển Nông thôn huyện Quỳ Châu Công Ơi của gia đình bà Hồ Thị Hương có giá trị 900000000₫ đó là chưa kể ngôi nhà gỗ trị giá hàng trăm triệu
+
+372
+00:15:37,459 --> 00:15:40,039
+Của năm 2020
+
+373
+00:15:41,059 --> 00:15:41,839
+Điều khiển không
+
+374
+00:15:41,839 --> 00:15:42,259
+Giết người
+
+375
+00:15:42,719 --> 00:15:43,819
+Chỉ biết gia đình này
+
+376
+00:15:43,819 --> 00:15:44,979
+Lại là hộ nghèo
+
+377
+00:15:45,019 --> 00:15:46,139
+Điều kiện hỗ trợ
+
+378
+00:15:46,139 --> 00:15:46,699
+Ba triệu
+
+379
+00:15:46,959 --> 00:15:48,019
+Trăm năm nghìn đồng
+
+380
+00:15:48,239 --> 00:15:49,119
+Có ảnh hưởng đại
+
+381
+00:15:52,279 --> 00:15:54,399
+Bay đi Hà Nội là bao thư Trả Giá
+
+382
+00:15:55,139 --> 00:15:56,499
+Nhưng mà tôi đang bật bài này
+
+383
+00:15:57,179 --> 00:16:00,239
+Khi nhập vào để hưởng quyền lợi cho con đi học
+
+384
+00:16:01,819 --> 00:16:05,319
+Năm 2020 bàn Quỳnh 2 xã Châu Bình
+
+385
+00:16:05,359 --> 00:16:07,599
+Có 97 hộ nghèo và cận nghèo
+
+386
+00:16:07,939 --> 00:16:12,059
+24 tháng 6 các hộ gia đình này được nhận tiền hỗ trợ khó khăn
+
+387
+00:16:12,099 --> 00:16:16,999
+Do đại dịch covid-19 thế nhưng tại cuộc họp thôn ngày mùng 6 tháng 6
+
+388
+00:16:17,039 --> 00:16:18,959
+Qua rà soát nhanh bản Quỳnh 2
+
+389
+00:16:19,019 --> 00:16:20,559
+Có đến 66 gạch chéo
+
+390
+00:16:21,259 --> 00:16:22,059
+Đã thoát nghèo
+
+391
+00:16:24,739 --> 00:16:25,579
+Vụ này Thoát nghèo
+
+392
+00:16:25,799 --> 00:16:27,119
+Sao mới xây thêm nhà cửa
+
+393
+00:16:27,459 --> 00:16:28,259
+Sắm đồ dùng
+
+394
+00:16:30,619 --> 00:16:33,919
+Sang tháng tư năm nay lịch chạy nhà mới
+
+395
+00:16:34,339 --> 00:16:35,179
+Nâng cấp
+
+396
+00:16:37,339 --> 00:16:37,999
+Nguồn
+
+397
+00:16:38,339 --> 00:16:39,159
+Họ là
+
+398
+00:16:41,659 --> 00:16:42,879
+Cây thứ nhất là theo quy tắc
+
+399
+00:16:42,939 --> 00:16:43,279
+Quán
+
+400
+00:16:43,539 --> 00:16:44,499
+Vào năm
+
+401
+00:16:44,699 --> 00:16:45,699
+Tu sửa nhà cửa
+
+402
+00:16:46,719 --> 00:16:47,579
+Đón Tết
+
+403
+00:16:48,239 --> 00:16:50,339
+Lịch nguồn thu thì loại
+
+404
+00:16:50,699 --> 00:16:53,639
+Rượu của cây trộn đây cũng nhiều nhưng có hộ chất theo gì
+
+405
+00:16:54,519 --> 00:16:55,719
+Sắp được khai thác rừng
+
+406
+00:16:56,299 --> 00:16:57,579
+Hoa hồng khi bôi thương
+
+407
+00:16:59,339 --> 00:17:00,619
+Cũng tại bản Quỳnh 2
+
+408
+00:17:00,699 --> 00:17:03,279
+Có ba trường hợp thuộc diện hộ nghèo và cận nghèo
+
+409
+00:17:03,459 --> 00:17:04,199
+Nhưng đã mất
+
+410
+00:17:04,219 --> 00:17:06,719
+Vào trước thời điểm xảy ra dịch bệnh covid-19
+
+411
+00:17:06,999 --> 00:17:09,099
+Thế nhưng không hiểu vì lý do gì
+
+412
+00:17:09,099 --> 00:17:10,219
+Mã trường hợp này
+
+413
+00:17:10,339 --> 00:17:14,739
+Vẫn được cấp phát triển hỗ trợ lúc đó Thực tế là gì
+
+414
+00:17:15,039 --> 00:17:15,919
+Mình
+
+415
+00:17:16,699 --> 00:17:18,299
+Cũng là không không
+
+416
+00:17:19,079 --> 00:17:20,079
+Tắc kè
+
+417
+00:17:21,039 --> 00:17:23,039
+Thì ở dưới gây cười nhiều cái
+
+418
+00:17:23,519 --> 00:17:26,019
+Ghét rồi có văn bản lên không kiểm soát
+
+419
+00:17:26,559 --> 00:17:29,359
+Tên các cơ sở tức là theo cái bộ công cụ
+
+420
+00:17:29,599 --> 00:17:31,619
+Đánh giá chấm điểm của các xã thị trấn
+
+421
+00:17:32,019 --> 00:17:34,859
+Nếu như cậu biết mệnh đề sai cho chúng tôi tức là sẽ
+
+422
+00:17:36,659 --> 00:17:38,039
+Ở cấp nào làm sai
+
+423
+00:17:38,259 --> 00:17:40,379
+Khi cấp độ tức là phải chịu trách nhiệm
+
+424
+00:17:40,479 --> 00:17:41,819
+Baby bảng B sai của mình
+
+425
+00:17:43,859 --> 00:17:44,999
+Được biết năm 2000
+
+426
+00:17:45,439 --> 00:17:45,959
+520
+
+427
+00:17:46,699 --> 00:17:50,019
+Quỳ Châu có hơn 3.600 hộ nghèo và hơn 4.000 hộ
+
+428
+00:17:50,059 --> 00:17:50,639
+Cận nghèo
+
+429
+00:17:51,759 --> 00:17:52,479
+Chỉ tính riêng
+
+430
+00:17:52,499 --> 00:17:53,359
+Xã Châu Bình
+
+431
+00:17:53,479 --> 00:17:55,199
+Đã chi hơn 3,3 tỷ đồng
+
+432
+00:17:55,259 --> 00:17:58,199
+Cho 1085 hộ nghèo và cận nghèo
+
+433
+00:17:58,359 --> 00:17:58,959
+Khó khăn
+
+434
+00:17:58,979 --> 00:18:00,299
+Covid 19
+
+435
+00:18:00,959 --> 00:18:04,199
+Trước những bất thường trong việc bình bầu hộ nghèo cận nghèo
+
+436
+00:18:04,359 --> 00:18:06,539
+Và chi trả tiền hỗ trợ covid-19
+
+437
+00:18:06,839 --> 00:18:08,379
+Ủy ban nhân dân huyện Quỳ Châu
+
+438
+00:18:08,499 --> 00:18:11,299
+Đã tắt văn bản yêu cầu tất cả các xã thị trấn
+
+439
+00:18:11,539 --> 00:18:13,699
+Nhanh chóng rà soát kịp thời chấn chỉnh
+
+440
+00:18:13,959 --> 00:18:15,039
+Và xử lý nghiêm
+
+441
+00:18:15,219 --> 00:18:16,759
+Tập thể cá nhân vi phạm
+
+442
+00:18:18,439 --> 00:18:20,299
+Thời gian vừa qua tình trạng băng nhóm tội phạm
+
+443
+00:18:20,319 --> 00:18:20,899
+Có tổ chức
+
+444
+00:18:21,059 --> 00:18:21,519
+Manh động
+
+445
+00:18:21,719 --> 00:18:22,799
+Cũng có xu hướng gia tăng
+
+446
+00:18:22,899 --> 00:18:24,559
+Gây mất an ninh trật tự tại nhiều địa phương
+
+447
+00:18:24,959 --> 00:18:26,299
+Sự xuống cấp về đạo đức xã hội
+
+448
+00:18:26,359 --> 00:18:28,559
+Hành vi cư xử giữa con người với con người
+
+449
+00:18:28,739 --> 00:18:30,059
+Là một phần nguyên nhân dẫn đến
+
+450
+00:18:30,999 --> 00:18:34,279
+Dư luận vô cùng bất an trước tính chất ngày càng năng động của các băng nhóm tội phạm
+
+451
+00:18:34,559 --> 00:18:35,759
+Rất cẩn cơ quan chức năng mà
+
+452
+00:18:35,759 --> 00:18:36,399
+Mạnh tay trấn áp
+
+453
+00:18:36,619 --> 00:18:37,599
+Duy trì an ninh trật tự
+
+454
+00:18:40,019 --> 00:18:48,759
+Hình ảnh này được trích xuất từ camera an ninh ghi lại vụ việc xảy ra lúc 20:30 ngày mùng 5 tháng 6 tại quán ốc hương địa bàn phường An Lạc
+
+455
+00:18:48,959 --> 00:18:49,839
+Quận Bình Tân
+
+456
+00:18:50,219 --> 00:18:54,759
+Thời điểm đó khoảng 200 thanh niên đi trên xe máy đa số các áo màu cam
+
+457
+00:18:54,779 --> 00:18:56,859
+Cầm dao tự chế chữa ba ngày
+
+458
+00:18:56,859 --> 00:18:58,979
+Đến quán chửi bới đập phá bàn ghế
+
+459
+00:18:58,999 --> 00:18:59,759
+Tủ kính
+
+460
+00:18:59,799 --> 00:19:02,079
+Và dùng vỏ chai bia đánh Khách đang ngồi nhậu
+
+461
+00:19:02,299 --> 00:19:04,759
+Sau đó bỏ đi qua nhiều tuyến phố
+
+462
+00:19:04,779 --> 00:19:06,079
+Ngày sau vụ việc
+
+463
+00:19:06,179 --> 00:19:11,699
+Công An thành phố Hồ Chí Minh đã củng cố hồ sơ ban đầu ra quyết định khởi tố vụ án về ba nhóm tội
+
+464
+00:19:12,019 --> 00:19:13,239
+Gây rối trật tự công cộng
+
+465
+00:19:13,419 --> 00:19:14,439
+Cố ý gây thương tích
+
+466
+00:19:14,699 --> 00:19:16,359
+Cố ý làm hư hỏng tài sản
+
+467
+00:19:16,619 --> 00:19:24,199
+Đồng thời ra quyết định tạm giữ hình sự 15 nghi phạm để đấu tranh khai thác và tiếp tục mở rộng điều tra truy bắt những nghi phạm còn lại
+
+468
+00:19:25,579 --> 00:19:27,279
+Công an thành phố cũng kêu gọi
+
+469
+00:19:28,499 --> 00:19:29,419
+Người thân
+
+470
+00:19:30,039 --> 00:19:30,759
+Bạn bè
+
+471
+00:19:31,699 --> 00:19:32,439
+Gia đình
+
+472
+00:19:33,159 --> 00:19:34,239
+Các đối tượng liên quan
+
+473
+00:19:34,759 --> 00:19:36,139
+Và kêu gọi trực tiếp đối tượng
+
+474
+00:19:37,219 --> 00:19:38,319
+Có liên quan
+
+475
+00:19:42,679 --> 00:19:43,879
+Điều đáng báo động
+
+476
+00:19:43,999 --> 00:19:45,939
+Là những sự việc này ngày càng nhiều
+
+477
+00:19:46,039 --> 00:19:48,359
+Các băng nhóm được hình thành với quy mô lớn
+
+478
+00:19:48,359 --> 00:19:51,259
+Giải quyết mâu thuẫn bằng bạo lực rất manh động và liều lĩnh
+
+479
+00:19:52,179 --> 00:19:56,839
+Những người thấy lắm mà không dám ra có ai đâu mà sợ
+
+480
+00:20:01,599 --> 00:20:01,959
+Ok
+
+481
+00:20:01,959 --> 00:20:02,359
+Nhà hàng
+
+482
+00:20:11,079 --> 00:20:12,179
+Mà hai bên mà
+
+483
+00:20:22,079 --> 00:20:25,359
+Theo thống kê trong quý 1 năm nay của Công an thành phố Hồ Chí Minh
+
+484
+00:20:25,579 --> 00:20:28,259
+Phạm pháp hình sự được đánh giá là tăng 10%
+
+485
+00:20:28,459 --> 00:20:32,939
+Toàn lực lượng đã điều tra khám phá 13057 vụ vi phạm hình sự
+
+486
+00:20:33,459 --> 00:20:35,559
+30276 đối tượng
+
+487
+00:20:35,739 --> 00:20:38,639
+Triệt phá 598 băng ổ nhóm tội phạm
+
+488
+00:20:39,619 --> 00:20:43,259
+Đối với những vụ án đặc biệt nghiêm trọng như thế này mà chúng ta mà làm chậm
+
+489
+00:20:43,919 --> 00:20:44,379
+Ảnh hưởng
+
+490
+00:20:45,099 --> 00:20:45,619
+Tâm lý
+
+491
+00:20:47,259 --> 00:20:47,819
+Của anh
+
+492
+00:20:48,499 --> 00:20:49,119
+Bà Còng
+
+493
+00:21:06,439 --> 00:21:09,779
+Theo công an thành phố Hồ Chí Minh hiện nay các loại tội phạm bạo lực
+
+494
+00:21:09,899 --> 00:21:12,359
+Gây rối trật tự công cộng đã liên tiếp xảy ra
+
+495
+00:21:12,519 --> 00:21:14,459
+Phổ biến nhất tại các khu vực vùng ven
+
+496
+00:21:14,659 --> 00:21:15,699
+Trong thời gian qua
+
+497
+00:21:15,819 --> 00:21:19,839
+Công an thành phố cũng đã và đang tiếp tục Triển khai nhiều chuyên đề chuyên sâu
+
+498
+00:21:20,019 --> 00:21:22,979
+Tấn công các loại tội phạm trên địa bàn thành phố Hồ Chí Minh
+
+499
+00:21:23,899 --> 00:21:29,379
+Trong tháng 5 vừa qua dư luận cả nước đặc biệt quan tâm tới Nghệ An công ty tenma đóng tại Bắc Ninh
+
+500
+00:21:29,519 --> 00:21:31,119
+Có trụ sở chính tại Nhật Bản
+
+501
+00:21:31,119 --> 00:21:32,839
+Đưa hối lộ cơ quan thuế và hải quan
+
+502
+00:21:33,359 --> 00:21:36,079
+Vụ việc đã được Thủ tướng Chính phủ chỉ thị điều tra làm rõ
+
+503
+00:21:36,599 --> 00:21:40,599
+Câu chuyện mở ra nghi vấn về việc nhiều doanh nghiệp Việt Nam phải có phí bôi trơn trong hoạt
+
+504
+00:21:40,599 --> 00:21:41,299
+Động sản xuất kinh doanh
+
+505
+00:21:41,699 --> 00:21:43,479
+Có hay không thể ở chính sách trong hoạt động
+
+506
+00:21:43,559 --> 00:21:44,179
+Xuất nhập khẩu
+
+507
+00:21:44,319 --> 00:21:44,799
+Để tắt
+
+508
+00:21:44,879 --> 00:21:45,359
+Doanh nghiệp
+
+509
+00:21:45,619 --> 00:21:46,499
+Cán bộ trục lợi
+
+510
+00:21:49,119 --> 00:21:54,519
+Khảo sát pci của phòng thương mại và công nghiệp Việt Nam trong 4 năm trở lại đây về chi phí không chính thức của doanh nghiệp
+
+511
+00:21:55,219 --> 00:21:56,219
+Du sướng xàm
+
+512
+00:21:56,399 --> 00:21:59,439
+Nguyên nhân kết quả cho thấy là vào năm 2019
+
+513
+00:21:59,539 --> 00:22:01,579
+Có đến hơn 50% doanh nghiệp được hỏi
+
+514
+00:22:01,659 --> 00:22:03,419
+Vẫn phải trả chi phí không chính thức
+
+515
+00:22:03,679 --> 00:22:05,619
+Với hơn 12 nghìn doanh nghiệp được hỏi
+
+516
+00:22:05,759 --> 00:22:08,779
+Số doanh nghiệp phải trả không chính thức đã là hơn 6 nghìn
+
+517
+00:22:09,199 --> 00:22:13,739
+Trước nghi vấn công ty Nhật Kim Anh hai lần hối lộ cơ quan chức năng Bắc Ninh
+
+518
+00:22:13,899 --> 00:22:15,119
+Tổng cộng số tiền 5
+
+519
+00:22:16,119 --> 00:22:16,699
+Căng thẳng đi
+
+520
+00:22:19,719 --> 00:22:20,179
+Ngoài ra
+
+521
+00:22:21,659 --> 00:22:21,979
+Việt Nam
+
+522
+00:22:22,359 --> 00:22:22,799
+Một lần
+
+523
+00:22:25,459 --> 00:22:26,299
+Của một bộ phận
+
+524
+00:22:26,879 --> 00:22:27,979
+Trong bộ máy hành chính
+
+525
+00:22:28,559 --> 00:22:29,799
+Hiện tượng mà
+
+526
+00:22:30,599 --> 00:22:31,699
+Báo chí bệnh yêu của rồi
+
+527
+00:22:33,259 --> 00:22:33,539
+Cũng là
+
+528
+00:22:39,779 --> 00:22:40,239
+Thể chế
+
+529
+00:22:41,119 --> 00:22:41,379
+Mạnh hơn
+
+530
+00:22:44,739 --> 00:22:45,199
+Đơn giản
+
+531
+00:22:46,859 --> 00:22:47,299
+Bể cá
+
+532
+00:22:48,399 --> 00:22:48,919
+Tăng cường
+
+533
+00:22:58,039 --> 00:22:58,979
+Trước Timor
+
+534
+00:22:59,339 --> 00:23:02,679
+Đã xuất hiện nhiều vụ việc cả trách nhiệm Fe2 lẫn doanh nghiệp trong nước
+
+535
+00:23:02,919 --> 00:23:07,099
+Tố cáo về việc ăn chia và có yêu cầu đòi hỏi các chi phí không chính thức
+
+536
+00:23:07,279 --> 00:23:08,559
+Hay là chi phí gầm bàn
+
+537
+00:23:08,879 --> 00:23:10,579
+Tuy nhiên vì nhiều lý do
+
+538
+00:23:10,639 --> 00:23:13,059
+Vấn đề này chưa được xử lý đến nơi đến chốn
+
+539
+00:23:14,139 --> 00:23:16,299
+Liên quan đến việc hỗ trợ phục hồi kinh tế
+
+540
+00:23:16,479 --> 00:23:19,059
+Một số đại biểu đề nghị Chính phủ cần chỉ đạo quyết liệt
+
+541
+00:23:19,279 --> 00:23:20,679
+Sớm giải ngân gói hỗ trợ
+
+542
+00:23:20,819 --> 00:23:21,959
+Tháo gỡ khó khăn cho ngành
+
+543
+00:23:21,979 --> 00:23:22,679
+Cảng hàng không du lịch
+
+544
+00:23:22,839 --> 00:23:24,439
+Cũng như các ngành liên quan đến xuất khẩu
+
+545
+00:23:24,819 --> 00:23:26,819
+Thời gian qua rất nhiều ngành có ưu thế xuất khẩu
+
+546
+00:23:26,839 --> 00:23:27,279
+Viết chữ
+
+547
+00:23:27,779 --> 00:23:28,219
+Tiêu cực
+
+548
+00:23:28,399 --> 00:23:28,979
+Do dịch bệnh
+
+549
+00:23:29,219 --> 00:23:30,539
+Nhưng lại không thể xuất khẩu
+
+550
+00:23:30,899 --> 00:23:34,239
+Câu chuyện về xuất khẩu gạo trong tháng Tư vừa qua là một ví dụ điển hình
+
+551
+00:23:34,699 --> 00:23:37,099
+Diễn biến điều hành xuất khẩu gạo đã gây rất nhiều khó khăn bởi
+
+552
+00:23:37,319 --> 00:23:37,959
+Chúc cho doanh nghiệp
+
+553
+00:23:37,959 --> 00:23:38,579
+Nông dân
+
+554
+00:23:39,019 --> 00:23:39,939
+Rất nhiều doanh nghiệp
+
+555
+00:23:40,019 --> 00:23:40,539
+Đã
+
+556
+00:23:40,719 --> 00:23:41,359
+Nghi vấn
+
+557
+00:23:41,599 --> 00:23:43,279
+Có dấu hiệu trục lợi và tiêu cực
+
+558
+00:23:43,559 --> 00:23:44,439
+Trong điều hành
+
+559
+00:23:44,819 --> 00:23:45,759
+Mặt hàng xuất khẩu gạo
+
+560
+00:23:48,799 --> 00:23:50,059
+Đảm bảo an ninh lương thực
+
+561
+00:23:50,079 --> 00:23:55,339
+Thời gian qua Chính phủ đã đồng ý xuất khẩu gạo trong tháng tư năm nay giới hạn ở mức 400 nghìn tấn
+
+562
+00:23:55,579 --> 00:23:58,399
+Số lượng này được cho là phù hợp với tình hình nguồn cung thực
+
+563
+00:23:58,399 --> 00:24:00,519
+Thực tế và được các doanh nghiệp xuất khẩu đồng tình
+
+564
+00:24:01,059 --> 00:24:03,419
+Điều đáng nói là chỉ trong đêm 12 tháng 04
+
+565
+00:24:03,519 --> 00:24:07,319
+Lượng gạo đăng ký Mở tờ khai hải quan xuất khẩu đã lên tới 400000₫
+
+566
+00:24:07,679 --> 00:24:08,959
+Trong khi rất nhiều doanh nghiệp
+
+567
+00:24:08,999 --> 00:24:10,119
+Đã ký hợp đồng xu
+
+568
+00:24:10,319 --> 00:24:10,859
+Tổ chức đó
+
+569
+00:24:11,099 --> 00:24:12,179
+Gạo đã ra cả
+
+570
+00:24:12,359 --> 00:24:12,859
+Nhưng lại
+
+571
+00:24:12,859 --> 00:24:13,259
+Không kịp
+
+572
+00:24:13,259 --> 00:24:14,259
+Mở tờ khai hải quan
+
+573
+00:24:14,639 --> 00:24:16,199
+Doanh nghiệp này đã phải bốn lần
+
+574
+00:24:16,219 --> 00:24:17,659
+Gửi đơn kêu cứu lên Thủ tướng
+
+575
+00:24:18,439 --> 00:24:19,279
+Như thế này
+
+576
+00:24:19,399 --> 00:24:20,679
+Mỗi một ngày các doanh nghiệp
+
+577
+00:24:21,679 --> 00:24:22,319
+Xuất khẩu gạo
+
+578
+00:24:22,819 --> 00:24:23,479
+Nhạc Tuấn
+
+579
+00:24:23,799 --> 00:24:24,539
+Thiệt hại là
+
+580
+00:24:24,659 --> 00:24:26,359
+Từ 3 đến 50 tỷ đồng
+
+581
+00:24:27,059 --> 00:24:28,499
+Cái đêm ngày 12 tháng 04
+
+582
+00:24:28,779 --> 00:24:31,019
+Mà hải quan có cho khai hải quan sai đi
+
+583
+00:24:31,559 --> 00:24:32,659
+Tôi phản ánh
+
+584
+00:24:34,519 --> 00:24:35,619
+Con gái lại
+
+585
+00:24:37,139 --> 00:24:38,259
+Gạo nào
+
+586
+00:24:38,319 --> 00:24:40,119
+Đồ nướng thịt chó khai và cho thông quan
+
+587
+00:24:40,579 --> 00:24:41,799
+Còn cái nào mà
+
+588
+00:24:41,879 --> 00:24:42,979
+Cá đuối
+
+589
+00:24:43,159 --> 00:24:44,099
+Thì cho cái sau
+
+590
+00:24:44,779 --> 00:24:46,579
+Việc làm xuất đơn giản như thế thôi
+
+591
+00:24:48,719 --> 00:24:50,759
+Có hay không dấu hiệu trục lợi tiêu cực
+
+592
+00:24:50,799 --> 00:24:52,819
+Để xử lý nghiêm theo quy định của pháp luật
+
+593
+00:24:53,039 --> 00:24:55,939
+Đây là yêu cầu thanh tra chính phủ làm rõ từ thủ tướng
+
+594
+00:24:56,059 --> 00:24:59,779
+Người đứng đầu chính phủ cũng yêu cầu làm rõ thông tin báo chí phản ánh
+
+595
+00:24:59,819 --> 00:25:00,199
+Về đi
+
+596
+00:25:00,219 --> 00:25:01,119
+Công khai minh bạch
+
+597
+00:25:01,199 --> 00:25:01,479
+Liên
+
+598
+00:25:01,919 --> 00:25:02,259
+Đến giờ
+
+599
+00:25:02,279 --> 00:25:02,539
+Việc làm
+
+600
+00:25:03,699 --> 00:25:06,379
+Và đăng ký Mở tờ khai hải quan khi xuất khẩu gạo
+
+601
+00:25:06,619 --> 00:25:09,399
+Báo cáo lên Thủ tướng Chính phủ trong tháng 6 năm nay
+
+602
+00:25:10,339 --> 00:25:12,459
+Không được
+
+603
+00:25:12,519 --> 00:25:15,279
+Quá đúng
+
+604
+00:25:15,299 --> 00:25:17,759
+Điều hành
+
+605
+00:25:21,019 --> 00:25:24,039
+Cung vô cho cái bộ công thương Bộ Tài chính nữa
+
+606
+00:25:24,839 --> 00:25:25,379
+Theo ca
+
+607
+00:25:25,379 --> 00:25:25,959
+Các chuyên gia
+
+608
+00:25:26,039 --> 00:25:29,379
+Cách điều hành đối với ngành gạo trong nước hiện nay đang mang tính hình thức
+
+609
+00:25:29,939 --> 00:25:30,519
+Biết là hoa
+
+610
+00:25:30,519 --> 00:25:31,559
+Hoạt động xuất khẩu gạo
+
+611
+00:25:31,579 --> 00:25:32,799
+Nếu không giám sát chặt
+
+612
+00:25:32,819 --> 00:25:33,179
+Nhạc chế
+
+613
+00:25:33,319 --> 00:25:34,079
+Dễ nảy sinh
+
+614
+00:25:34,199 --> 00:25:34,459
+Tiêu cực
+
+615
+00:25:34,719 --> 00:25:36,179
+Tạo cơ chế xin cho bác
+
+616
+00:25:36,799 --> 00:25:38,959
+Do đó cần phải phân quyền cho các bên
+
+617
+00:25:39,259 --> 00:25:40,499
+Ký sự giám sát của Chính phủ
+
+618
+00:25:42,259 --> 00:25:43,279
+Người dân đang tiếp tục
+
+619
+00:25:43,279 --> 00:25:43,859
+Kiều Oanh
+
+620
+00:25:44,179 --> 00:25:46,139
+Trong mỏi mòn chờ đợi và công lý ở Mỹ
+
+621
+00:25:46,219 --> 00:25:46,959
+Số của anh
+
+622
+00:25:47,399 --> 00:25:48,959
+Vấn đề chậm tiến độ của các dự án
+
+623
+00:25:49,059 --> 00:25:50,079
+Là căn bệnh trầm Kha
+
+624
+00:25:50,439 --> 00:25:52,359
+Không có lý do chỉ tập trung ăn thịt lợn
+
+625
+00:25:52,459 --> 00:25:52,879
+Mà
+
+626
+00:25:52,939 --> 00:25:53,299
+Phan
+
+627
+00:25:53,819 --> 00:25:54,739
+Phải dỗ thực phẩm
+
+628
+00:25:55,019 --> 00:25:55,719
+Không gây áp lực
+
+629
+00:25:55,719 --> 00:25:56,439
+Lên một ngày hàng
+
+630
+00:25:56,759 --> 00:25:59,679
+Ngã ba trong số những phát biểu ấn tượng của các đại biểu trong phiên thảo luận
+
+631
+00:26:00,219 --> 00:26:00,939
+Tình hình kinh tế xã hội
+
+632
+00:26:01,099 --> 00:26:01,579
+Hai ngày
+
+633
+00:26:02,239 --> 00:26:04,579
+Những vấn đề của các đại biểu nêu ra khi so với thực tế
+
+634
+00:26:04,759 --> 00:26:05,539
+Và chờ đợi
+
+635
+00:26:05,859 --> 00:26:06,399
+Những lời giải đáp
+
+636
+00:26:07,559 --> 00:26:10,779
+Việc vi phạm nghiêm trọng trong bản vật chứng vụ án đã khởi tố hơn một năm nay
+
+637
+00:26:10,839 --> 00:26:12,319
+Nhưng chưa được đưa ra xét xử
+
+638
+00:26:12,519 --> 00:26:13,219
+Bí đỏ
+
+639
+00:26:13,299 --> 00:26:15,959
+Người dân phải chấp hành án phạt tù trong sự đau khổ
+
+640
+00:26:16,079 --> 00:26:16,539
+Wattpad
+
+641
+00:26:16,759 --> 00:26:18,139
+Cuộc gọi bị bắn vịt
+
+642
+00:26:18,179 --> 00:26:18,719
+Thuốc có tốt
+
+643
+00:26:19,039 --> 00:26:19,919
+Người thì quá đủ
+
+644
+00:26:19,919 --> 00:26:20,799
+Đức thắt cổ tự tử
+
+645
+00:26:20,919 --> 00:26:22,519
+Người còn lại vào vòng tù tội
+
+646
+00:26:22,579 --> 00:26:25,919
+Đang tiếp tục kêu oan trong hỗ trợ mong mỏi mỏi mòn và công lý
+
+647
+00:26:26,539 --> 00:26:27,439
+Thiên đức vĩnh hằng
+
+648
+00:26:27,459 --> 00:26:29,599
+Đây là phần nổi của tảng băng trình
+
+649
+00:26:29,599 --> 00:26:30,699
+Pokemon lồng
+
+650
+00:26:30,699 --> 00:26:31,759
+Thông tin của người dân
+
+651
+00:26:31,899 --> 00:26:32,559
+Tủ lãi suất
+
+652
+00:26:32,879 --> 00:26:33,779
+Điều ảnh đã giảm
+
+653
+00:26:34,039 --> 00:26:35,439
+Tìm lãi suất cho vay thực
+
+654
+00:26:35,459 --> 00:26:35,899
+Thực tế
+
+655
+00:26:36,099 --> 00:26:37,659
+Biệt thự doanh nghiệp và các tổ chức
+
+656
+00:26:38,679 --> 00:26:39,839
+Do các tổ chức tín dụng
+
+657
+00:26:40,159 --> 00:26:40,639
+Ngân hàng
+
+658
+00:26:40,659 --> 00:26:41,479
+Thương mại quyết định
+
+659
+00:26:41,879 --> 00:26:43,539
+Do vậy cần phải có thêm gói
+
+660
+00:26:43,779 --> 00:26:45,299
+Cho vay với lãi suất thấp hơn
+
+661
+00:26:45,519 --> 00:26:46,579
+Tân cổ Kiếp Cầm
+
+662
+00:26:46,839 --> 00:26:47,799
+Vốn kinh doanh nghiệp
+
+663
+00:26:47,799 --> 00:26:52,399
+Không nên để như thời gian qua dư luận cho rằng người dân chỉ được ăn thịt lợn giá rẻ trên tivi
+
+664
+00:26:52,899 --> 00:26:55,499
+Nếu do câu sản xuất thì phải kích thích tăng đàn tăng nhập khẩu
+
+665
+00:26:55,639 --> 00:26:56,339
+Lúc cần thiết
+
+666
+00:26:56,379 --> 00:26:57,559
+Kinh tế Nhà nước phải tham gia
+
+667
+00:26:58,239 --> 00:27:00,679
+Nếu có câu lưu thông tỉnh có biện pháp hợp lý hợp pháp
+
+668
+00:27:00,799 --> 00:27:01,319
+Trực tiếp
+
+669
+00:27:01,459 --> 00:27:01,899
+Cân nhắc
+
+670
+00:27:01,959 --> 00:27:03,279
+Tất cả những việc nhà nước thu về
+
+671
+00:27:03,839 --> 00:27:04,939
+Trực tiếp cho thị trường
+
+672
+00:27:05,239 --> 00:27:06,039
+Chúng ta tập
+
+673
+00:27:06,059 --> 00:27:09,939
+Trung cũng phải khuyến cáo phải lựa chọn cái sản phẩm đa dạng hóa thực phẩm
+
+674
+00:27:10,199 --> 00:27:12,079
+Không có lý gì bây giờ cứ tập trung ăn thịt lợn
+
+675
+00:27:12,519 --> 00:27:13,179
+Thịt gà
+
+676
+00:27:13,379 --> 00:27:13,839
+Chợ Tốt
+
+677
+00:27:14,079 --> 00:27:15,719
+Bún bà con nông dân chúng ta sẽ bước ra
+
+678
+00:27:17,879 --> 00:27:18,499
+Chứ không vậy
+
+679
+00:27:18,739 --> 00:27:19,819
+Điều của nông dân
+
+680
+00:27:20,479 --> 00:27:21,639
+Cái gì
+
+681
+00:27:21,819 --> 00:27:22,319
+Thực phẩm
+
+682
+00:27:22,619 --> 00:27:23,499
+Mưa là bổ dưỡng
+
+683
+00:27:24,739 --> 00:27:25,779
+Mưa được không Cưới Em
+
+684
+00:27:26,659 --> 00:27:27,519
+Vấn đề chậm tiến độ
+
+685
+00:27:27,999 --> 00:27:28,719
+Chương trình dự án
+
+686
+00:27:30,359 --> 00:27:30,939
+Đội 4
+
+687
+00:27:31,799 --> 00:27:32,579
+Nguồn lực của đất nước
+
+688
+00:27:32,919 --> 00:27:33,819
+Rất nhiều dự án
+
+689
+00:27:33,939 --> 00:27:35,059
+Được đầu tư rất nhiều tiền
+
+690
+00:27:37,259 --> 00:27:38,059
+Hoặc nhiều dự án
+
+691
+00:27:38,059 --> 00:27:38,539
+Chương trình
+
+692
+00:27:38,539 --> 00:27:39,319
+Cấp 4 nhỏ gọn
+
+693
+00:27:39,599 --> 00:27:40,259
+Chúc bà bầu
+
+694
+00:27:40,419 --> 00:27:41,179
+Mua nồi cơm điện
+
+695
+00:27:41,459 --> 00:27:42,799
+Không biết dự án tham gia
+
+696
+00:27:42,979 --> 00:27:44,159
+Các dự án khác giải ngân
+
+697
+00:27:44,519 --> 00:27:45,279
+Trong khi có
+
+698
+00:27:45,279 --> 00:27:46,939
+Những dự án quan trọng khác thì lại thiếu vốn
+
+699
+00:27:47,319 --> 00:27:48,059
+Đơn cử như
+
+700
+00:27:48,319 --> 00:27:50,299
+Dự án đưa điện về nông thôn miền núi hải đảo
+
+701
+00:27:52,619 --> 00:27:55,919
+Miền Trung trong 2 ngày thảo luận các đại biểu đạt đánh giá cao nỗ lực của
+
+702
+00:27:55,939 --> 00:27:58,099
+Chính phủ các bộ ban ngành cho điều hành kinh tế xã hội
+
+703
+00:27:58,439 --> 00:28:01,339
+Tuy nhiên các đại biểu cũng Đề nghị các bộ ngành cần Lư Giang
+
+704
+00:28:01,439 --> 00:28:02,559
+Những giải pháp thiết thực nữ
+
+705
+00:28:02,739 --> 00:28:03,939
+Nhằm phục hồi kinh tế xã hội
+
+706
+00:28:03,959 --> 00:28:04,339
+Tuổi 68
+
+707
+00:28:04,599 --> 00:28:05,139
+Nặng nề
+
+708
+00:28:05,139 --> 00:28:05,539
+Của đại
+
+709
+00:28:06,919 --> 00:28:08,339
+Về các nội dung kinh tế xã hội khác
+
+710
+00:28:08,419 --> 00:28:09,859
+Đại biểu đề nghị tiếp tục thực hiện
+
+711
+00:28:10,259 --> 00:28:10,799
+Các quy định
+
+712
+00:28:10,839 --> 00:28:11,799
+Về phòng chống tác hại
+
+713
+00:28:12,119 --> 00:28:12,479
+Rượu bia
+
+714
+00:28:12,719 --> 00:28:13,779
+Đảm bảo an toàn giao thông
+
+715
+00:28:13,999 --> 00:28:14,719
+Đấu tranh quyết liệt
+
+716
+00:28:14,719 --> 00:28:15,739
+Các băng nhóm tội phạm
+
+717
+00:28:15,939 --> 00:28:17,379
+Em lại trật tự an ninh xã hội
+
+718
+00:28:17,399 --> 00:28:18,239
+An toàn cho người dân
+
+719
+00:28:18,819 --> 00:28:21,879
+Những chất vấn của đại biểu đang chờ đợi những giải đáp phát thực tế
+
+720
+00:28:22,059 --> 00:28:22,479
+Không Phòng
+
+721
+00:28:22,899 --> 00:28:23,379
+Của các
+
+722
+00:28:23,399 --> 00:28:23,839
+Tư lệnh ngành
+
+723
+00:28:24,079 --> 00:28:25,039
+Và qua đó đáp ứng được
+
+724
+00:28:25,079 --> 00:28:25,499
+Kỳ vọng
+
+725
+00:28:25,559 --> 00:28:26,219
+Của nhân dân
+
+726
+00:28:26,819 --> 00:28:30,059
+Bây giờ thì tôi nhận được tín hiệu từ phóng viên và kim phượng đang có mặt tại
+
+727
+00:28:30,879 --> 00:28:31,779
+Kết nối trở lại với
+
+728
+00:28:31,839 --> 00:28:32,279
+Phim kiếm hiệp
+
+729
+00:28:39,499 --> 00:28:41,939
+Tôi vừa được gặp bà tại trường quay
+
+730
+00:28:41,939 --> 00:28:44,719
+Thứ nhất là về tình hình xuất khẩu gạo này về tình hình đảm bảo
+
+731
+00:28:44,819 --> 00:28:45,539
+Trật tự an ninh xã hội
+
+732
+00:28:45,819 --> 00:28:48,459
+Và câu chuyện mà doanh nghiệp phải trả phí bôi trơn
+
+733
+00:28:49,379 --> 00:28:50,059
+Nhiều vấn đề khác
+
+734
+00:28:50,219 --> 00:28:52,699
+Bên cạnh đó nổi cộm nhất đó là vấn đề mà là xử
+
+735
+00:28:53,439 --> 00:28:54,519
+Ở cây ớt số tiền
+
+736
+00:28:54,939 --> 00:28:55,399
+Hỗ trợ
+
+737
+00:28:55,619 --> 00:28:56,499
+Đại sứ quán 79
+
+738
+00:28:56,679 --> 00:28:59,839
+Thế đã có những đại biểu nào đăng ký phát biểu và các nội dung này đã
+
+739
+00:29:00,439 --> 00:29:01,119
+Làm thế nào trong phim
+
+740
+00:29:06,519 --> 00:29:07,359
+Vâng ạ
+
+741
+00:29:07,559 --> 00:29:10,819
+Đang chú ý thì những cái thông tin liên quan đến
+
+742
+00:29:11,879 --> 00:29:16,479
+Trả lời của Bộ trưởng Bộ Công Thương Trần Tuấn Anh liên quan đến vấn đề xuất khẩu gạo
+
+743
+00:29:16,699 --> 00:29:20,319
+Theo bộ trưởng thì những cái phản ánh liên quan đến xuất khẩu gạo trong thời gian qua
+
+744
+00:29:20,639 --> 00:29:22,379
+Thì đã được ở Bộ Công Thương
+
+745
+00:29:22,459 --> 00:29:23,199
+Chỉ đạo
+
+746
+00:29:23,259 --> 00:29:24,019
+Làm gió
+
+747
+00:29:24,079 --> 00:29:25,179
+Tải trong những
+
+748
+00:29:26,179 --> 00:29:27,619
+Tháng tiếp theo thì khi mà
+
+749
+00:29:27,879 --> 00:29:29,199
+Để thu của đồng bằng sông Cửu Long
+
+750
+00:29:30,479 --> 00:29:31,579
+Chúng ta sẽ thu hoạch
+
+751
+00:29:31,579 --> 00:29:32,819
+Thì cái lượng gạo xuất khẩu
+
+752
+00:29:33,819 --> 00:29:34,239
+Trở lại
+
+753
+00:29:36,159 --> 00:29:37,599
+Về an ninh lương thực
+
+754
+00:29:39,199 --> 00:29:39,579
+Không còn
+
+755
+00:29:39,739 --> 00:29:41,859
+An ninh lương thực nữa
+
+756
+00:29:42,179 --> 00:29:43,379
+Một vấn đề nữa mà
+
+757
+00:29:44,339 --> 00:29:45,179
+Đại biểu có đề cập
+
+758
+00:29:46,739 --> 00:29:47,619
+Trần Tuấn Anh có đề cập
+
+759
+00:29:49,939 --> 00:29:50,439
+Năng lượng
+
+760
+00:29:51,219 --> 00:29:51,919
+Năng lượng
+
+761
+00:29:54,619 --> 00:29:55,199
+Sắp tới đây thì
+
+762
+00:29:56,019 --> 00:29:56,399
+Triển khai
+
+763
+00:29:56,559 --> 00:29:57,199
+Liên quan
+
+764
+00:29:58,359 --> 00:29:59,499
+Năng lượng gió năng lượng mà
+
+765
+00:29:59,499 --> 00:29:59,859
+Mặt trời
+
+766
+00:30:00,079 --> 00:30:00,619
+Đĩa zin
+
+767
+00:30:00,619 --> 00:30:02,019
+Giải quyết các bài toán cứu điện
+
+768
+00:30:02,239 --> 00:30:02,619
+Trong năm
+
+769
+00:30:05,719 --> 00:30:07,199
+Cùng với đó thì nhiều
+
+770
+00:30:08,059 --> 00:30:08,759
+Đại biểu đã làm
+
+771
+00:30:09,159 --> 00:30:09,559
+Hậu trường
+
+772
+00:30:10,259 --> 00:30:10,799
+Phát biểu lễ
+
+773
+00:30:10,819 --> 00:30:11,519
+Liên quan đến
+
+774
+00:30:13,679 --> 00:30:14,299
+Trong Ma Sói
+
+775
+00:30:15,119 --> 00:30:15,779
+Các vụ án
+
+776
+00:30:15,839 --> 00:30:16,879
+Trong thời gian gần đây
+
+777
+00:30:17,259 --> 00:30:17,699
+Đặc biệt
+
+778
+00:30:18,839 --> 00:30:19,299
+Nguyễn Thị
+
+779
+00:30:19,859 --> 00:30:20,659
+Đại biểu Lưu Bị
+
+780
+00:30:20,659 --> 00:30:21,699
+Bình dưỡng đẳng Bến Tre
+
+781
+00:30:21,899 --> 00:30:22,459
+Các đặc điểm
+
+782
+00:30:24,339 --> 00:30:25,319
+Khách sạn này
+
+783
+00:30:25,339 --> 00:30:26,579
+Cần phải được làm rõ
+
+784
+00:30:26,799 --> 00:30:27,299
+Địa
+
+785
+00:30:27,619 --> 00:30:28,639
+Khiến cho
+
+786
+00:30:28,739 --> 00:30:29,539
+Cho Dư luận có
+
+787
+00:30:30,099 --> 00:30:31,279
+Nhìn đúng đắn hơn
+
+788
+00:30:31,839 --> 00:30:32,399
+Cũng như là
+
+789
+00:30:33,239 --> 00:30:34,099
+Chẳng được giới thiệu
+
+790
+00:30:34,639 --> 00:30:35,439
+Với người dân
+
+791
+00:30:35,679 --> 00:30:36,719
+Một nội dung nữa
+
+792
+00:30:36,779 --> 00:30:37,419
+Cũng được
+
+793
+00:30:37,439 --> 00:30:38,259
+Đại biểu đề cập
+
+794
+00:30:38,279 --> 00:30:38,879
+Đặc điểm đội
+
+795
+00:30:39,399 --> 00:30:40,659
+Hỗ trợ vay gói hỗ trợ
+
+796
+00:30:40,679 --> 00:30:42,059
+62 nghìn tỷ cho
+
+797
+00:30:42,299 --> 00:30:43,359
+Mở những người thân
+
+798
+00:30:43,499 --> 00:30:45,359
+Hiện tại thì có dấu hiệu của việc
+
+799
+00:30:45,539 --> 00:30:46,259
+Lợi các vị trí
+
+800
+00:30:47,119 --> 00:30:47,799
+Chính phủ
+
+801
+00:30:47,959 --> 00:30:49,599
+Vì vậy cũng yêu cầu là chính phủ
+
+802
+00:30:50,099 --> 00:30:50,619
+Cần phải kiêng
+
+803
+00:30:50,639 --> 00:30:51,699
+Kiểm soát chặt chẽ hơn nữa
+
+804
+00:30:52,099 --> 00:30:54,319
+Xin được trở lại trường quay với anh kỳ vọng
+
+805
+00:30:55,339 --> 00:30:57,479
+Cảm ơn những thông tin của phóng viên Lương thực và cung cấp
+
+806
+00:30:57,799 --> 00:30:58,559
+Và những
+
+807
+00:30:58,779 --> 00:31:02,759
+Thông tin nổi bật trong phiên làm việc và sáng hôm nay tại nhà trường Quốc Hội đã được phóng viên VTC
+
+808
+00:31:02,979 --> 00:31:03,579
+Tổng hợp
+
+809
+00:31:03,659 --> 00:31:04,219
+Bà Chiểu
+
+810
+00:31:04,219 --> 00:31:05,379
+Biển tứ quý vị và các bạn cho bạn
+
+811
+00:31:05,839 --> 00:31:07,059
+Thử hôm nay lên sóng lúc 11
+
+812
+00:31:07,119 --> 00:31:07,579
+Một giờ Ba
+
+813
+00:31:07,899 --> 00:31:08,639
+Truyền hình VTV1
+
+814
+00:31:09,119 --> 00:31:09,639
+Quý vị quan tâm
+
+815
+00:31:10,219 --> 00:31:10,719
+Còn bây giờ
+
+816
+00:31:10,999 --> 00:31:11,379
+Bản tin nhanh
+
+817
+00:31:11,599 --> 00:31:12,319
+Sáng nay của
+
+818
+00:31:12,399 --> 00:31:12,679
+Chúng tôi
+
+819
+00:31:12,899 --> 00:31:13,659
+Thêm được Cả tạ
+
+820
+00:31:14,199 --> 00:31:15,339
+Và trước khi kết thúc 10
+
+821
+00:31:16,359 --> 00:31:16,679
+Theo dõi
+
+822
+00:31:18,959 --> 00:31:20,479
+Xin cảm ơn sự quan tâm theo dõi của quý vị
+
+823
+00:31:20,819 --> 00:31:22,199
+Kính chào tạm biệt và hẹn gặp lại
