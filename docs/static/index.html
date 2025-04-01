@@ -152,7 +152,7 @@
                 formData.append('file', fileInput.files[0]);
                 formData.append('language', language);
 
-                const response = await fetch('/api/transcribe', {
+                const response = await fetch('./api/transcribe', {
                     method: 'POST',
                     body: formData
                 });
