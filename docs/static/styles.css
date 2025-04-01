@@ -58,45 +58,6 @@ ul li:before {
     left: 0;
 }
 
-/* Try it section styles */
-.try-it-section {
-    background-color: #f8f9fa;
-    padding: 1.5rem;
-    border-radius: 8px;
-    border: 1px solid #dee2e6;
-}
-
-.form-label {
-    font-weight: 500;
-    color: #2c3e50;
-}
-
-.form-control,
-.form-select {
-    border: 1px solid #ced4da;
-    border-radius: 4px;
-    padding: 0.5rem;
-}
-
-.form-control:focus,
-.form-select:focus {
-    border-color: #80bdff;
-    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
-}
-
-#result {
-    margin-top: 1.5rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid #dee2e6;
-}
-
-#outputText {
-    max-height: 300px;
-    overflow-y: auto;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
-
 /* About section styles */
 .about-section {
     padding: 1rem 0;
