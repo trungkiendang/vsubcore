@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 import os
 import sys
 import tempfile
+import shutil
 from werkzeug.utils import secure_filename
 
 # Add parent directory to path to import vsub-nolog
@@ -59,5 +60,21 @@ def transcribe():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
+def build_static_site():
+    """Build static site for GitHub Pages"""
+    # Create _site directory
+    site_dir = os.path.join(os.path.dirname(__file__), '_site')
+    os.makedirs(site_dir, exist_ok=True)
+    
+    # Copy static files
+    static_dir = os.path.join(os.path.dirname(__file__), 'static')
+    shutil.copytree(static_dir, os.path.join(site_dir, 'static'), dirs_exist_ok=True)
+    
+    # Copy index.html to root
+    shutil.copy2(os.path.join(static_dir, 'index.html'), os.path.join(site_dir, 'index.html'))
+
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000))) 
+    if len(sys.argv) > 1 and sys.argv[1] == 'build':
+        build_static_site()
+    else:
+        app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000))) 

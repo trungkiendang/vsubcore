@@ -1,4 +1,4 @@
-name: Deploy Flask App
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -23,7 +23,14 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Run Flask app
+    - name: Build static site
       run: |
         cd docs
-        python app.py 
+        python app.py build
+    
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs/_site
+        publish_branch: gh-pages 
