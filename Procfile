@@ -1,0 +1,1 @@
+web: cd docs && python app.py 
