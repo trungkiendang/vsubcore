@@ -25,6 +25,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
+    - name: Copy vsub-nolog.py
+      run: |
+        cp vsub-nolog.py docs/
+    
     - name: Build static site
       run: |
         cd docs

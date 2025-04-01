@@ -5,9 +5,8 @@ import tempfile
 import shutil
 from werkzeug.utils import secure_filename
 
-# Add parent directory to path to import vsub-nolog
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from vsubcore.vsub_nolog import find_speech_regions, download_audio, transcribe_audio
+# Import vsub-nolog functions directly from the same directory
+from vsub_nolog import find_speech_regions, download_audio, transcribe_audio
 
 app = Flask(__name__)
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024  # 16MB max file size
