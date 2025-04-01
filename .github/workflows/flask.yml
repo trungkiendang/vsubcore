@@ -25,14 +25,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Copy vsub-nolog.py
+    - name: Setup project structure
       run: |
+        mkdir -p docs
         cp vsub-nolog.py docs/
+        cp -r vsubcore docs/
     
     - name: Build static site
       run: |
         cd docs
-        python app.py build
+        PYTHONPATH=$PYTHONPATH:. python app.py build
     
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3

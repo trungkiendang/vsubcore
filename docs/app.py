@@ -5,7 +5,11 @@ import tempfile
 import shutil
 from werkzeug.utils import secure_filename
 
-# Import vsub-nolog functions directly from the same directory
+# Add current directory to Python path
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, current_dir)
+
+# Import vsub-nolog functions
 from vsub_nolog import find_speech_regions, download_audio, transcribe_audio
 
 app = Flask(__name__)
@@ -62,13 +66,13 @@ def transcribe():
 def build_static_site():
     """Build static site for GitHub Pages"""
     # Create _site directory
-    site_dir = os.path.join(os.path.dirname(__file__), '_site')
+    site_dir = os.path.join(current_dir, '_site')
     if os.path.exists(site_dir):
         shutil.rmtree(site_dir)
     os.makedirs(site_dir, exist_ok=True)
     
     # Copy static files
-    static_dir = os.path.join(os.path.dirname(__file__), 'static')
+    static_dir = os.path.join(current_dir, 'static')
     shutil.copytree(static_dir, os.path.join(site_dir, 'static'), dirs_exist_ok=True)
     
     # Copy index.html to root
