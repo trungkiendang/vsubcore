@@ -18,7 +18,7 @@ setup(
     description="A speech recognition tool that converts video/audio to text and generates SRT subtitles",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/vsubcore",
+    url="https://github.com/trungkiendang/vsubcore",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
